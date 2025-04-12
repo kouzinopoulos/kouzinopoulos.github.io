@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>Assistant Professor</b> @ <a href='https://www.maastrichtuniversity.nl/'>Maastricht University</a> | <b>Previously:</b> Senior Researcher @ <a href='https://home.cern/science/experiments/alice'>CERN</a> | Senior Researcher @ <a href='https://www.iti.gr/iti/en/home/'>CERTH/ITI</a>
+subtitle: <b>Assistant Professor</b> / Coordinator Computer Systems Research Area @ <a href='https://www.maastrichtuniversity.nl/'>Maastricht University</a> | <b>Previously:</b> Senior Researcher @ <a href='https://home.cern/science/experiments/alice'>CERN</a> | Senior Researcher @ <a href='https://www.iti.gr/iti/en/home/'>CERTH/ITI</a>
 
 profile:
   align: right
@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an Assistant Professor of the Internet of Things and Coordinator of the Computer Systems Research Area in the <a href='https://www.maastrichtuniversity.nl/research/department-advanced-computing-sciences'>Department of Advanced Computing Sciences</a>  of the <a href='https://www.maastrichtuniversity.nl/about-um/faculties/faculty-science-and-engineering'>Faculty of Science and Engineering</a>  at <a href='https://www.maastrichtuniversity.nl/'>Maastricht University</a>. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research vision centers on developing sustainable, low-power, intelligent systems for the Internet of Things across high-impact application areas for society, including Digital Agriculture, Smart Cities, Healthcare and the Industry 4.0.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interests lie in hardware design and integration with a focus on low power consumption and miniaturization, the design, optimization and compression of algorithms based on the underlying hardware to enable intelligence at the edge, in software-hardware co-design, computer architecture, parallel and distributed computing and in GPGPU computing.
