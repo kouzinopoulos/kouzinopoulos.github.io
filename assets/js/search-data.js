@@ -391,8 +391,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-paper-predicting-the-lifespan-of-industrial-printheads-with-survival-analysis-accepted-by-icps-25",
-          title: 'Paper Predicting the Lifespan of Industrial Printheads with Survival Analysis accepted by ICPS’25...',
+            },},{id: "news-paper-predicting-the-lifespan-of-industrial-printheads-with-survival-analysis-accepted-at-icps-2025",
+          title: 'Paper Predicting the Lifespan of Industrial Printheads with Survival Analysis accepted at ICPS...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
