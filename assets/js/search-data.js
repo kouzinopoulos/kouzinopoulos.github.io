@@ -440,16 +440,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-paper-predicting-the-lifespan-of-industrial-printheads-with-survival-analysis-accepted-by-icps-25",
+          title: 'Paper Predicting the Lifespan of Industrial Printheads with Survival Analysis accepted by ICPS’25...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
