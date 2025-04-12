@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper <a href='https://arxiv.org/abs/2504.07638'>Predicting the Lifespan of Industrial Printheads with Survival Analysis</a> accepted by <a href='https://icps2025.ieee-ies.org/'>ICPS'25</a> 
+Paper <a href="https://arxiv.org/abs/2504.07638">**Predicting the Lifespan of Industrial Printheads with Survival Analysis**</a> accepted at <a href="https://icps2025.ieee-ies.org/">**ICPS 2025**</a>
