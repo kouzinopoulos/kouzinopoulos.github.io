@@ -197,7 +197,7 @@ exclude:
   - _pages/blog
   - _pages/projects
   - _pages/repositories
-  - _pages/people
+  - _pages/profiles
   - _pages/dropdown
 keep_files:
   - CNAME

@@ -2,11 +2,28 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Teaching
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
-Organize your courses by years, topics, or universities, however you like!
+<h2> 2025</h2>
+
+<ul>
+<li>(Spring 2025: Coordinator, Maastricht University): <a href='https://curriculum.maastrichtuniversity.nl/meta/499305/m2-2-high-performance-computing'>BCS2730 High Performance Computing</a></li>
+
+<li>(Spring 2025: Coordinator, Maastricht University): <a href='https://curriculum.maastrichtuniversity.nl/meta/499277/embedded-programming'>BCS2410 Embedded Programming</a></li>
+
+</ul>
+
+<h2> 2024</h2>
+
+<ul>
+<li>(Fall 2024: Coordinator, Maastricht University): <a href='https://curriculum.maastrichtuniversity.nl/meta/488594/procedural-programming'>BCS1120 Procedural Programming</a></li>
+</ul>
+
+
+
+
+
