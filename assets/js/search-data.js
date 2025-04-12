@@ -451,7 +451,7 @@ ninja.data = [{
         title: 'Bluesky',
         section: 'Socials',
         handler: () => {
-          window.open("kouzinopoulos.bsky.social", "_blank");
+          window.open("https://bsky.app/profile/kouzinopoulos.bsky.social", "_blank");
         },
       },{
         id: 'social-email',
@@ -487,6 +487,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=T9xaZc8AAAAJ", "_blank");
+        },
+      },{
+        id: 'social-x',
+        title: 'X',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://twitter.com/kouzinopoulos", "_blank");
         },
       },{
       id: 'light-theme',
