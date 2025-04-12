@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an Assistant Professor of the Internet of Things and Coordinator of the Computer Systems Research Area in the <a href='https://www.maastrichtuniversity.nl/research/department-advanced-computing-sciences'>Department of Advanced Computing Sciences</a>  of the <a href='https://www.maastrichtuniversity.nl/about-um/faculties/faculty-science-and-engineering'>Faculty of Science and Engineering</a>  at <a href='https://www.maastrichtuniversity.nl/'>Maastricht University</a>. 
+I am an <b>Assistant Professor of the Internet of Things</b> and <b>Coordinator of the Computer Systems Research Area</b> in the <a href='https://www.maastrichtuniversity.nl/research/department-advanced-computing-sciences'>Department of Advanced Computing Sciences</a>  of the <a href='https://www.maastrichtuniversity.nl/about-um/faculties/faculty-science-and-engineering'>Faculty of Science and Engineering</a>  at <a href='https://www.maastrichtuniversity.nl/'>Maastricht University</a>. 
 
 My research vision centers on developing sustainable, low-power, intelligent systems for the Internet of Things across high-impact application areas for society, including Digital Agriculture, Smart Cities, Healthcare and the Industry 4.0.
 
