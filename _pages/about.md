@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>Assistant Professor</b> / Coordinator Computer Systems Research Area @ <a href='https://www.maastrichtuniversity.nl/'>Maastricht University</a> | <b>Previously:</b> Senior Researcher @ <a href='https://home.cern/science/experiments/alice'>CERN</a> | Senior Researcher @ <a href='https://www.iti.gr/iti/en/home/'>CERTH/ITI</a>
+subtitle: <b>Assistant Professor</b> @ <a href='https://www.maastrichtuniversity.nl/'>Maastricht University</a> | Coordinator <b>Computer Systems</b> research area
 
 profile:
   align: right
@@ -22,7 +22,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---

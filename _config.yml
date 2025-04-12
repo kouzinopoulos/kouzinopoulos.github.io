@@ -193,6 +193,12 @@ exclude:
   - readme_preview/
   - vendor
   - _news/announcement_*.md
+  - _pages/books
+  - _pages/blog
+  - _pages/projects
+  - _pages/repositories
+  - _pages/people
+  - _pages/dropdown
 keep_files:
   - CNAME
   - .nojekyll
