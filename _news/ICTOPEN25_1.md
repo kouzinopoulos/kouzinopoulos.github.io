@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Poster presentation in <strong>ICT.OPEN25</strong> in collaboration with <strong>Canon Production Printing</strong>
+title: Poster presentation at <strong>ICT.OPEN25</strong> in collaboration with <strong>Canon Production Printing</strong>
 date: 2025-04-16 09:00:00+0200
 inline: false
 related_posts: false
@@ -9,7 +9,7 @@ related_posts: false
 Data-Driven Solutions for Lifespan and Failure Prediction in Printing Systems
 
 ---
-
+abc 123
 ---
 
 Precisely predicting the lifespan and failure mechanisms of critical components in production printing are essential for manufacturers to plan maintenance, optimize production output, and improve the functionality of their products. 
