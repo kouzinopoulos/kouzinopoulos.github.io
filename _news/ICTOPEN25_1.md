@@ -1,12 +1,14 @@
 ---
 layout: post
-title: Poster presentation in **ICT.OPEN25** in collaboration with **Canon Production Printing**
+title: Poster presentation in <strong>ICT.OPEN25</strong> in collaboration with <strong>Canon Production Printing</strong>
 date: 2025-04-16 09:00:00+0200
 inline: false
 related_posts: false
 ---
 
 Data-Driven Solutions for Lifespan and Failure Prediction in Printing Systems
+
+---
 
 ---
 

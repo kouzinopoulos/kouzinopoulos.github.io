@@ -31,4 +31,13 @@ I am an <b>Assistant Professor of the Internet of Things</b> and <b>Coordinator 
 
 My research vision centers on developing sustainable, low-power, intelligent systems for the Internet of Things across high-impact application areas for society, including Digital Agriculture, Smart Cities, Healthcare and the Industry 4.0.
 
-My research interests lie in hardware design and integration with a focus on low power consumption and miniaturization, the design, optimization and compression of algorithms based on the underlying hardware to enable intelligence at the edge, in software-hardware co-design, computer architecture, parallel and distributed computing and in GPGPU computing.
+Research interests:
+
+<ul>
+  <li><strong>Hardware design and integration</strong> with a focus on low power consumption and miniaturization</li>
+  <li><strong>Algorithm design, optimization and compression</strong> based on the underlying hardware</li>
+  <li><strong>Software-hardware co-design for Edge AI</strong></li>
+  <li><strong>Computer architecture</strong></li>
+  <li><strong>Parallel and distributed computing</strong></li>
+  <li><strong>GPGPU/TPU computing</strong></li>
+</ul> 
