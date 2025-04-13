@@ -1,12 +1,12 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Poster presentation at <strong>ICT.OPEN25</strong> in collaboration with <strong>Canon Production Printing</strong>
+date: 2025-04-16 09:00:00+0200
 inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+Data-Driven Solutions for Lifespan and Failure Prediction in Printing Systems
 
 ---
 
