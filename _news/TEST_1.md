@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Poster presentation at <strong>ICT.OPEN25</strong> in collaboration with <strong>Canon Production Printing</strong>
+title: Poster presentation at ICT.OPEN25 in collaboration with Canon Production Printing
 date: 2025-04-16 09:00:00+0200
 inline: false
 related_posts: false
