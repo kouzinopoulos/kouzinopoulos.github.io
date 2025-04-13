@@ -399,7 +399,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/ICTOPEN25_1/";
-            },},{id: "news-poster-presentation-at-ict-open25-in-collaboration-with-canon-production-printing",
+            },},{id: "news-poster-presentation-data-driven-solutions-for-lifespan-and-failure-prediction-in-printing-systems-at-ict-open-2025",
+          title: 'Poster presentation Data-Driven Solutions for Lifespan and Failure Prediction in Printing Systems at...',
+          description: "",
+          section: "News",},{id: "news-poster-presentation-at-ict-open25-in-collaboration-with-canon-production-printing",
           title: 'Poster presentation at ICT.OPEN25 in collaboration with Canon Production Printing',
           description: "",
           section: "News",handler: () => {
