@@ -394,7 +394,12 @@ ninja.data = [{
             },},{id: "news-paper-predicting-the-lifespan-of-industrial-printheads-with-survival-analysis-accepted-at-icps-2025",
           title: 'Paper Predicting the Lifespan of Industrial Printheads with Survival Analysis accepted at ICPS...',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",},{id: "news-poster-presentation-in-ict-open25-in-collaboration-with-canon-production-printing",
+          title: 'Poster presentation in **ICT.OPEN25** in collaboration with **Canon Production Printing**',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/ICTOPEN25_1/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
