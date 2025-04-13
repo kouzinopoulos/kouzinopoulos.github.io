@@ -394,20 +394,10 @@ ninja.data = [{
             },},{id: "news-paper-predicting-the-lifespan-of-industrial-printheads-with-survival-analysis-accepted-at-icps-2025",
           title: 'Paper Predicting the Lifespan of Industrial Printheads with Survival Analysis accepted at ICPS...',
           description: "",
-          section: "News",},{id: "news-poster-presentation-at-ict-open25-in-collaboration-with-canon-production-printing",
-          title: 'Poster presentation at ICT.OPEN25 in collaboration with Canon Production Printing',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/ICTOPEN25_1/";
-            },},{id: "news-poster-presentation-data-driven-solutions-for-lifespan-and-failure-prediction-in-printing-systems-at-ict-open-2025",
+          section: "News",},{id: "news-poster-presentation-data-driven-solutions-for-lifespan-and-failure-prediction-in-printing-systems-at-ict-open-2025-in-collaboration-with-canon-production-printing",
           title: 'Poster presentation Data-Driven Solutions for Lifespan and Failure Prediction in Printing Systems at...',
           description: "",
-          section: "News",},{id: "news-poster-presentation-at-ict-open25-in-collaboration-with-canon-production-printing",
-          title: 'Poster presentation at ICT.OPEN25 in collaboration with Canon Production Printing',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/TEST_1/";
-            },},{id: "projects-project-1",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
