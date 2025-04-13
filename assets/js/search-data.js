@@ -395,7 +395,7 @@ ninja.data = [{
           title: 'Paper Predicting the Lifespan of Industrial Printheads with Survival Analysis accepted at ICPS...',
           description: "",
           section: "News",},{id: "news-poster-presentation-in-ict-open25-in-collaboration-with-canon-production-printing",
-          title: 'Poster presentation in **ICT.OPEN25** in collaboration with **Canon Production Printing**',
+          title: 'Poster presentation in ICT.OPEN25 in collaboration with Canon Production Printing',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/ICTOPEN25_1/";
