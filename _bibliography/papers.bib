@@ -116,7 +116,7 @@ preview={EnergyAutonomousWireless_1.png}
   preview={WF-IoT22_1.png}
   }
 
-@INPROCEEDINGS{9797120,
+@INPROCEEDINGS{Oikonomou2022AnEncryption,
   author={Oikonomou, Chrysoula and Kouzinopoulos, Charalampos S and Ioannidis, Dimosthenis and Tzovaras, Dimitrios},
   booktitle={2022 11th Mediterranean Conference on Embedded Computing (MECO)}, 
   title={An Encryption Scheme using Dynamic Keys and Stream Ciphers for Embedded Devices}, 
@@ -125,9 +125,12 @@ preview={EnergyAutonomousWireless_1.png}
   number={},
   pages={1-4},
   keywords={Ciphers;Embedded computing;Heuristic algorithms;Memory management;Communication channels;Encryption;Security;cybersecurity;encryption;embedded;lightweight;dynamic key},
-  doi={10.1109/MECO55406.2022.9797120}}
+  abstract={Security in embedded devices can be challenging, due to limited available resources, including processing power, memory and energy autonomy. Embedded security solutions should have a low computational complexity and minimum memory requirements, while at the same time these must not reflect in the mechanism's efficiency. This paper describes a lightweight scheme for Data in Transit Encryption (DiTE) using dynamic keys, designed for embedded devices. The scheme is based on the RC4 and ChaCha ciphers and uses communication channel characteristics, and especially the RSSi, to generate the encryption keys. The proposed algorithm provides an enhanced security level, due to the non static encryption keys, in both physical and transport level.},
+  doi={10.1109/MECO55406.2022.9797120},
+  preview={MECO22_1.png}
+}
 
-@INPROCEEDINGS{9530090,
+@INPROCEEDINGS{Papaioannou2021ALow,
   author={Papaioannou, Alexios and Verikios, Panagiotis and Kouzinopoulos, Charalampos S and Ioannidis, Dimosthenis and Tzovaras, Dimitrios},
   booktitle={2021 IEEE Sensors Applications Symposium (SAS)}, 
   title={A low-power embedded system for fire monitoring and detection using a multilayer perceptron}, 
@@ -136,9 +139,12 @@ preview={EnergyAutonomousWireless_1.png}
   number={},
   pages={1-6},
   keywords={Image sensors;Power demand;Machine learning algorithms;Memory management;Machine learning;Predictive models;Multilayer perceptrons;Fire detection and monitoring;Embedded systems;Low-power;MLP},
-  doi={10.1109/SAS51076.2021.9530090}}
+  abstract={Fire monitoring and detection systems can evaluate data from environmental or image sensors in order to predict occurrences of fire. It is a complex procedure that requires a significant amount of energy as input data is usually acquired from multiple sensors and the algorithms generally have an increased complexity. This paper introduces a low-power fire monitoring and detection system that utilizes data from two environmental sensors. As a predictive algorithm for fire occurrences, it uses a multilayer perceptron (MLP) with a combination of different optimizations, developing a model with low memory requirements and high -accuracy predictions. The accuracy of the proposed system was verified using a dataset created by the environmental sensors for fire incidents and its performance was compared to existing approaches. An evaluation of the proposed system's power consumption and memory requirements is also presented.}
+  doi={10.1109/SAS51076.2021.9530090},
+  preview={SAS21_1.png}
+  }
 
-@INPROCEEDINGS{9297089,
+@INPROCEEDINGS{Meli2020LowLight,
   author={Meli, Marcel and Brütsch, Manuel and Stajic, Stefan and Böbel, Manuel and Lorenz, David and Hegetschweiler, Lukas and Karanassos, Dimitris and Kouzinopoulos, Charalampos},
   booktitle={2020 IEEE 5th International Symposium on Smart and Wireless Systems within the Conferences on Intelligent Data Acquisition and Advanced Computing Systems (IDAACS-SWS)}, 
   title={Low Light Energy Autonomous LoRaWAN Node}, 
@@ -148,21 +154,12 @@ preview={EnergyAutonomousWireless_1.png}
   number={},
   pages={1-6},
   keywords={Photovoltaic cells;Supercapacitors;Random access memory;Temperature measurement;Power system management;Nonvolatile memory;Ferroelectric films;energy harvesting;solar cells;LPWAN;LoRaWAN;power management},
-  doi={10.1109/IDAACS-SWS50031.2020.9297089}}
+  abstract={A LoRaWAN node powered using an 8 cm2 solar cell was designed and its low light harvesting performance evaluated. The embedded system is used to sense some parameters and transmit the results every 10 minutes, using the spreading factor SF7BW125 and transmitting with + 8 dBm, which allows the coverage of a small building. The node can cold start with less than 30 lux. Once started, its operations can be sustained down to 20 lux. Operation at higher spreading factors or higher RF output power is also possible if the transmission interval is increased. Such a performance enables the use of energy autonomous LPWAN nodes in poorly lit environments. The small size of the solar cell makes it possible to build small nodes.},
+  doi={10.1109/IDAACS-SWS50031.2020.9297089},
+  preview={IDAACS-SWS20_1.png}
+  }
 
-@INPROCEEDINGS{9297089,
-  author={Meli, Marcel and Brütsch, Manuel and Stajic, Stefan and Böbel, Manuel and Lorenz, David and Hegetschweiler, Lukas and Karanassos, Dimitris and Kouzinopoulos, Charalampos},
-  booktitle={2020 IEEE 5th International Symposium on Smart and Wireless Systems within the Conferences on Intelligent Data Acquisition and Advanced Computing Systems (IDAACS-SWS)}, 
-  title={Low Light Energy Autonomous LoRaWAN Node}, 
-  year={2020},
-  selected = {true},
-  volume={},
-  number={},
-  pages={1-6},
-  keywords={Photovoltaic cells;Supercapacitors;Random access memory;Temperature measurement;Power system management;Nonvolatile memory;Ferroelectric films;energy harvesting;solar cells;LPWAN;LoRaWAN;power management},
-  doi={10.1109/IDAACS-SWS50031.2020.9297089}}
-
-@INPROCEEDINGS{8966223,
+@INPROCEEDINGS{Kouzinopoulos2019AMANDA,
   author={Kouzinopoulos, Charalampos S. and Tzovaras, Dimitrios and Bembnowicz, Pawel and Meli, Marcel and Bellanger, Mathieu and Kauer, Matthias and De Vos, Julien and Pasero, Denis and Schellenberg, Martin and Vujicic, Oskar},
   booktitle={2019 IEEE 9th International Conference on Consumer Electronics (ICCE-Berlin)}, 
   title={AMANDA: An Autonomous Self-Powered Miniaturized Smart Sensing Embedded System}, 
@@ -172,7 +169,9 @@ preview={EnergyAutonomousWireless_1.png}
   number={},
   pages={324-329},
   keywords={Electronic smart systems;Embedded systems;Sensors;Microelectronics;Miniaturization;Autonomous operation;Energy harvesting},
+  abstract={This paper introduces an Autonomous Smart Sensing Card (ASSC), an embedded system that will be powered indoors and outdoors by harvested energy, have miniaturized dimensions and serve multi-sensorial IoT applications for smart living and working environments. It will consist of a combination of newly developed and optimized off-the-shelf or close-to-commercialization technologies such as PV harvesters, energy storage and power management units, MCUs and sensors, all packed with a form factor under 3mm in thickness. The system will introduce technical breakthroughs that will boost further miniaturization, a small footprint, ultra-low power consumption as well as short- and long-range communications.},
   doi={10.1109/ICCE-Berlin47944.2019.8966223},
+  preview={ICCE19_1.png}
   }
 
   @inproceedings{al2015alfa,
@@ -184,5 +183,8 @@ preview={EnergyAutonomousWireless_1.png}
   pages={072001},
   year={2015},
   selected = {true},
-  organization={IOP Publishing}
+  organization={IOP Publishing},
+  abstract={The commonalities between the ALICE and FAIR experiments and their computing requirements led to the development of large parts of a common software framework in an experiment independent way. The FairRoot project has already shown the feasibility of such an approach for the FAIR experiments and extending it beyond FAIR to experiments at other facilities[1, 2]. The ALFA framework is a joint development between ALICE Online- Offline (O2) and FairRoot teams. ALFA is designed as a flexible, elastic system, which balances reliability and ease of development with performance using multi-processing and multithreading. A message- based approach has been adopted; such an approach will support the use of the software on different hardware platforms, including heterogeneous systems. Each process in ALFA assumes limited communication and reliance on other processes. Such a design will add horizontal scaling (multiple processes) to vertical scaling provided by multiple threads to meet computing and throughput demands. ALFA does not dictate any application protocols. Potentially, any content-based processor or any source can change the application protocol. The framework supports different serialization standards for data exchange between different hardware and software languages.},
+  doi={10.1088/1742-6596/664/7/072001},
+  preview={ALFA15_1.png}
 }
