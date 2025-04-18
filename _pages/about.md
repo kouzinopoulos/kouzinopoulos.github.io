@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>Assistant Professor</b> @ <a href='https://www.maastrichtuniversity.nl/'>Maastricht University</a> | <b>Computer Systems</b> research area coordiantor
+subtitle: <b>Assistant Professor</b> @ <a href='https://www.maastrichtuniversity.nl/'>Maastricht University</a> | <b>Computer Systems</b> research area coordinator
 
 profile:
   align: right
