@@ -400,12 +400,7 @@ ninja.data = [{
           section: "News",},{id: "news-paper-adaptively-pruned-spiking-neural-networks-for-energy-efficient-intracortical-neural-decoding-accepted-at-embc-2025",
           title: 'Paper Adaptively Pruned Spiking Neural Networks for Energy-Efficient Intracortical Neural Decoding accepted at...',
           description: "",
-          section: "News",},{id: "news-new-site-theme-al-folio",
-          title: 'New Site Theme: al-folio',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/2025-05-01-al-folio-theme-announcement.md/";
-            },},{id: "projects-project-1",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
