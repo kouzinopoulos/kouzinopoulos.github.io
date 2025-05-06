@@ -400,7 +400,12 @@ ninja.data = [{
           section: "News",},{id: "news-paper-adaptively-pruned-spiking-neural-networks-for-energy-efficient-intracortical-neural-decoding-accepted-at-embc-2025",
           title: 'Paper Adaptively Pruned Spiking Neural Networks for Energy-Efficient Intracortical Neural Decoding accepted at...',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",},{id: "news-postdoctoral-researcher-position-in-edge-ai-deadline-08-06",
+          title: 'Postdoctoral Researcher position in Edge AI (deadline 08/06)',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/EDGEAI_1/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
