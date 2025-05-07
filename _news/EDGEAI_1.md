@@ -1,6 +1,9 @@
 ---
-title: "Postdoctoral Researcher position in Edge AI (deadline 08/06)"
+layout: post
+title: "Postdoctoral Researcher position in Edge AI available (deadline 08/06)"
 date: 2025-05-06
+inline: false
+related_posts: false
 ---
 
 <h2>🚀 Postdoctoral Researcher in Edge AI</h2>
