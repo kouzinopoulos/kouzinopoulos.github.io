@@ -1,17 +1,11 @@
 ---
 layout: page
 permalink: /theses/
-title: theses
-description: Theses
+title: Offered theses - academic year 2025 - 2026
+description: This page lists available topics for MSc- and BSc-level theses and projects
 nav: false
 nav_order: 7
 ---
-
-
-<h2>Offered theses 2025 - 2026</h2>
-
-This page lists available topics for MSc- and BSc-level theses and projects
-
 
 <h1>{{ page.title }}</h1>
 
@@ -22,8 +16,3 @@ This page lists available topics for MSc- and BSc-level theses and projects
     </li>
   {% endfor %}
 </ul>
-
-
-
-
-

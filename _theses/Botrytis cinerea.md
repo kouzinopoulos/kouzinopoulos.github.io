@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Deep Learning - BSc/MSc - Edge AI on Embedded Systems for Pest Detection in Tomato Plants"
+title: "Deep Learning - BSc/MSc - Edge AI on Embedded Systems for Gray Mold Disease Detection"
 inline: false
 related_posts: false
 ---
@@ -11,11 +11,11 @@ Edge AI is a new paradigm in Machine Learning (ML) that compresses Deep Learning
 
 <h3>How</h3>
 
-Understanding of the fundamental computer vision models for image classification (i.e. [1][2]) and object detection ([3][4]) is key for this thesis. You will gain familiarity with existing resource-constrained DL architectures ([5][6]) and get to know the deployment process for DL models on modern MCUs, such as the STM32U5 series, MCX N94x or GAP9. You will apply the computer vision models for the detection of pests, such as Tuta Absoluta or Alternaria Alternata, for tomato plants. You will propose compression techniques for existing models, including pruning and quantization, with an emphasis on the reduction of power consumption. The proposed techniques will be validated on existing datasets (i.e. [7]) and/or real-world data.
+Understanding of the fundamental computer vision models for image classification (i.e. [1][2]) and object detection ([3][4]) is key for this thesis. You will gain familiarity with existing resource-constrained DL architectures ([5][6]) and get to know the deployment process for DL models on modern MCUs, such as the STM32U5 series, MCX N94x or GAP9. You will apply the computer vision models for the detection of Gray Mold Disease (Botrytis cinerea) in different plants, such as wine grapes, strawberries or cucumbers. You will propose compression techniques for existing models, including pruning and quantization, with an emphasis on the reduction of power consumption. The proposed techniques will be validated on existing datasets (i.e. [7]) and/or real-world data.
 
 <h3>Outputs</h3>
 
-An extensive survey of computer vision Edge AI models for image classification and object detection. A new open-source framework of Computer Vision models for the detection of tomato plant pests in Smart Agriculture. Validation of the framework for different datasets, with an emphasis on accuracy, memory and processing requirements as well as power consumption. If the validation yields state of the art results and if time permits, the publication and presentation of the results in an international conference.
+An extensive survey of computer vision Edge AI models for image classification and object detection. A new open-source framework of Computer Vision models for the detection of gray mold disease in Smart Agriculture. Validation of the framework for different datasets, with an emphasis on accuracy, memory and processing requirements as well as power consumption. If the validation yields state of the art results and if time permits, the publication and presentation of the results in an international conference.
 
 <h4>Prerequisites</h4>
 
@@ -33,4 +33,4 @@ An extensive survey of computer vision Edge AI models for image classification a
 [4] Wang, Chien-Yao, I-Hau Yeh, and Hong-Yuan Mark Liao. "Yolov9: Learning what you want to learn using programmable gradient information" 
 [5] Lin, Ji, Wei-Ming Chen, Yujun Lin, John Cohn, Chuang Gan, and Song Han. "MCUNet: Tiny Deep Learning on IoT Devices."
 [6] A. Papaioannou, C.S. Kouzinopoulos, D. Ioannidis, and D. Tzovaras. "An Ultra-Low-Power Embedded AI Fire Detection and Crowd Counting System for Indoor Areas"
-[7] Georgantopoulos, Panagiotis S., et al. "A multispectral dataset for the detection of Tuta absoluta and Leveillula taurica in tomato plants." Smart Agricultural Technology 4 (2023): 100146.
+[7] https://zenodo.org/records/7383601
