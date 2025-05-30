@@ -5,8 +5,8 @@ title: teaching
 description: Teaching
 nav: false
 nav_order: 6
-calendar: true
 ---
+
 
 <h2> 2025</h2>
 
@@ -23,6 +23,7 @@ calendar: true
 <li>(Fall 2024: Coordinator, Maastricht University): <a href='https://curriculum.maastrichtuniversity.nl/meta/488594/procedural-programming'>BCS1120 Procedural Programming</a></li>
 </ul>
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
 
-{% include courses.liquid %}
+
+
+
