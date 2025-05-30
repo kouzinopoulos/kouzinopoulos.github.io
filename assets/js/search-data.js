@@ -462,6 +462,11 @@ ninja.data = [{
           description: "",
           section: "Theses",handler: () => {
               window.location.href = "/theses/Botrytis%20cinerea/";
+            },},{id: "theses-development-of-a-dk-aware-ai-framework-for-enhanced-resilience-in-data-scarce-environments",
+          title: 'Development of a DK-aware AI framework for enhanced resilience in data-scarce environments',
+          description: "",
+          section: "Theses",handler: () => {
+              window.location.href = "/theses/Leukemia/";
             },},{id: "theses-deep-learning-bsc-msc-edge-ai-on-embedded-systems-for-pest-detection-in-tomato-plants",
           title: 'Deep Learning - BSc/MSc - Edge AI on Embedded Systems for Pest Detection...',
           description: "",
