@@ -27,10 +27,12 @@ An extensive survey of computer vision Edge AI models for image classification a
 <li> Willingness to contribute to the state-of-the-art Deep Learning models </li>
 </ol>
 
-[1] Howard, Andrew G., Menglong Zhu, Bo Chen, Dmitry Kalenichenko, Weijun Wang, Tobias Weyand, Marco Andreetto, and Hartwig Adam. "MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications"
-[2] Tan, Mingxing, and Quoc V. Le. "EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks"
-[3] R. Girshick, J. Donahue, T. Darrell, and J. Malik, "Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation"
-[4] Wang, Chien-Yao, I-Hau Yeh, and Hong-Yuan Mark Liao. "Yolov9: Learning what you want to learn using programmable gradient information" 
-[5] Lin, Ji, Wei-Ming Chen, Yujun Lin, John Cohn, Chuang Gan, and Song Han. "MCUNet: Tiny Deep Learning on IoT Devices."
-[6] A. Papaioannou, C.S. Kouzinopoulos, D. Ioannidis, and D. Tzovaras. "An Ultra-Low-Power Embedded AI Fire Detection and Crowd Counting System for Indoor Areas"
-[7] Georgantopoulos, Panagiotis S., et al. "A multispectral dataset for the detection of Tuta absoluta and Leveillula taurica in tomato plants." Smart Agricultural Technology 4 (2023): 100146.
+<ol>
+<li> [1] Howard, Andrew G., Menglong Zhu, Bo Chen, Dmitry Kalenichenko, Weijun Wang, Tobias Weyand, Marco Andreetto, and Hartwig Adam. </li>"MobileNets: <li> Efficient Convolutional Neural Networks for Mobile Vision Applications"</li>
+<li> [2] Tan, Mingxing, and Quoc V. Le. "EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks"</li>
+<li> [3] R. Girshick, J. Donahue, T. Darrell, and J. Malik, "Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation"</li>
+<li> [4] Wang, Chien-Yao, I-Hau Yeh, and Hong-Yuan Mark Liao. "Yolov9: Learning what you want to learn using programmable gradient information" </li>
+<li> [5] Lin, Ji, Wei-Ming Chen, Yujun Lin, John Cohn, Chuang Gan, and Song Han. "MCUNet: Tiny Deep Learning on IoT Devices."</li>
+<li> [6] A. Papaioannou, C.S. Kouzinopoulos, D. Ioannidis, and D. Tzovaras. "An Ultra-Low-Power Embedded AI Fire Detection and Crowd Counting System for Indoor Areas"</li>
+<li> [7] Georgantopoulos, Panagiotis S., et al. "A multispectral dataset for the detection of Tuta absoluta and Leveillula taurica in tomato plants." Smart Agricultural Technology 4 (2023): 100146.</li>
+</ol>

@@ -7,8 +7,6 @@ nav: false
 nav_order: 7
 ---
 
-<h1>{{ page.title }}</h1>
-
 <ul>
   {% for doc in site.theses %}
     <li>
