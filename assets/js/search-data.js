@@ -457,8 +457,13 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "theses-document-title",
-          title: 'Document Title',
+            },},{id: "theses-deep-learning-bsc-msc-edge-ai-on-embedded-systems-for-gray-mold-disease-detection",
+          title: 'Deep Learning - BSc/MSc - Edge AI on Embedded Systems for Gray Mold...',
+          description: "",
+          section: "Theses",handler: () => {
+              window.location.href = "/theses/Botrytis%20cinerea/";
+            },},{id: "theses-deep-learning-bsc-msc-edge-ai-on-embedded-systems-for-pest-detection-in-tomato-plants",
+          title: 'Deep Learning - BSc/MSc - Edge AI on Embedded Systems for Pest Detection...',
           description: "",
           section: "Theses",handler: () => {
               window.location.href = "/theses/tuta/";
