@@ -1,26 +1,26 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Teaching
+permalink: /theses/
+title: theses
+description: Theses
 nav: false
-nav_order: 6
+nav_order: 7
 ---
 
 
-<h2> 2025</h2>
+<h2>Offered theses 2025 - 2026</h2>
+
+This page lists available topics for MSc- and BSc-level theses and projects
+
+
+<h1>{{ page.title }}</h1>
 
 <ul>
-<li>(Spring 2025: Coordinator, Maastricht University): <a href='https://curriculum.maastrichtuniversity.nl/meta/499305/m2-2-high-performance-computing'>BCS2730 High Performance Computing</a></li>
-
-<li>(Spring 2025: Coordinator, Maastricht University): <a href='https://curriculum.maastrichtuniversity.nl/meta/499277/embedded-programming'>BCS2410 Embedded Programming</a></li>
-
-</ul>
-
-<h2> 2024</h2>
-
-<ul>
-<li>(Fall 2024: Coordinator, Maastricht University): <a href='https://curriculum.maastrichtuniversity.nl/meta/488594/procedural-programming'>BCS1120 Procedural Programming</a></li>
+  {% for doc in site.theses %}
+    <li>
+      <a href="{{ doc.url }}">{{ doc.title }}</a>
+    </li>
+  {% endfor %}
 </ul>
 
 

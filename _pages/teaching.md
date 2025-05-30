@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Teaching
+title: teaching activities
+description: Department of Advanced Computing Sciences, Maastricht University
 nav: false
 nav_order: 6
 calendar: true
