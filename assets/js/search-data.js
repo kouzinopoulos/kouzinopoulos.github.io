@@ -457,6 +457,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "theses-document-title",
+          title: 'Document Title',
+          description: "",
+          section: "Theses",handler: () => {
+              window.location.href = "/theses/tuta/";
             },},{
         id: 'social-bluesky',
         title: 'Bluesky',
