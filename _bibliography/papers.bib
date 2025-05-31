@@ -2,7 +2,8 @@
 ---
 
 @misc{rivelli2025adaptivelyprunedspikingneural,
-      title={Adaptively Pruned Spiking Neural Networks for Energy-Efficient Intracortical Neural Decoding}, 
+      title={Adaptively Pruned Spiking Neural Networks for Energy-Efficient Intracortical Neural Decoding},
+      booktitle={47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)}, 
       author={Francesca Rivelli and Martin Popov and Charalampos S. Kouzinopoulos and Guangzhi Tang},
       year={2025},
       abstract={Intracortical brain-machine interfaces demand low-latency, energy-efficient solutions for neural decoding. Spiking Neural Networks (SNNs) deployed on neuromorphic hardware have demonstrated remarkable efficiency in neural decoding by leveraging sparse binary activations and efficient spatiotemporal processing. However, reducing the computational cost of SNNs remains a critical challenge for developing ultra-efficient intracortical neural implants. In this work, we introduce a novel adaptive pruning algorithm specifically designed for SNNs with high activation sparsity, targeting intracortical neural decoding. Our method dynamically adjusts pruning decisions and employs a rollback mechanism to selectively eliminate redundant synaptic connections without compromising decoding accuracy. Experimental evaluation on the NeuroBench Non-Human Primate (NHP) Motor Prediction benchmark shows that our pruned network achieves performance comparable to dense networks, with a maximum tenfold improvement in efficiency. Moreover, hardware simulation on the neuromorphic processor reveals that the pruned network operates at sub-μW power levels, underscoring its potential for energy-constrained neural implants. These results underscore the promise of our approach for advancing energy-efficient intracortical brain-machine interfaces with low-overhead on-device intelligence.},
@@ -19,7 +20,8 @@
 }
 
 @misc{parii2025predicting,
-      title={Predicting the Lifespan of Industrial Printheads with Survival Analysis}, 
+      title={Predicting the Lifespan of Industrial Printheads with Survival Analysis},
+      booktitle={8th IEEE International Conference on Industrial Cyber-Physical Systems (ICPS)},
       author={Dan Parii and Evelyne Janssen and Guangzhi Tang and Charalampos S. Kouzinopoulos and Marcin Pietrasik},
       year={2025},
       abstract={Accurately predicting the lifespan of critical device components is essential for maintenance planning and production optimization, making it a topic of significant interest in both academia and industry. In this work, we investigate the use of survival analysis for predicting the lifespan of production printheads developed by Canon Production Printing. Specifically, we focus on the application of five techniques to estimate survival probabilities and failure rates: the Kaplan-Meier estimator, Cox proportional hazard model, Weibull accelerated failure time model, random survival forest, and gradient boosting. The resulting estimates are further refined using isotonic regression and subsequently aggregated to determine the expected number of failures. The predictions are then validated against real-world ground truth data across multiple time windows to assess model reliability. Our quantitative evaluation using three performance metrics demonstrates that survival analysis outperforms industry-standard baseline methods for printhead lifespan prediction.},
@@ -96,13 +98,14 @@ issn = {1539-9087},
 url = {https://doi.org/10.1145/3582433},
 doi = {10.1145/3582433},
 abstract = {Fire incidents in residential and industrial areas are often the cause of human casualties and property damage. Although there are existing systems that detect fire and monitor the presence of people in indoor areas, research on their implementation in embedded platforms is limited. This article introduces an ultra-low-power embedded system for fire detection and crowd counting using efficient deep learning methods. For the prediction of fire occurrences, environmental and gas sensor along with multilayer perceptron nodes are used. For crowd counting, a custom lightweight version of YOLOv5 is introduced, using an architecture based on ShuffleNetV2, resulting in a model with low memory requirements, high accuracy predictions, and fast inference on an embedded platform. The accuracy, power consumption, and memory requirements of the proposed system are evaluated using public datasets and datasets acquired by the environmental and image sensors, and its performance is compared to that of existing approaches.},
-journal = {ACM Trans. Embed. Comput. Syst.},
+journal = {ACM Transactions on Embedded Computing Systems},
 month = jul,
 articleno = {61},
 numpages = {20},
 keywords = {Fire detection, crowd counting, embedded system, ultra-low-power system, machine learning for low-power systems, computer vision, Multilayer perceptron (MLP), YOLOv5, LW-YOLOv5},
 selected = {true},
 bibtex_show={true},
+pdf={FireDetection_1.pdf},
 preview={FireDetection_1.png}
 }
 
@@ -240,6 +243,7 @@ preview={EnergyAutonomousWireless_1.png}
   year={2013},
   abstract={Baker and Bird and Baeza-Yates and Regnier are two of the most efficient and widely used algorithms for exact online two-dimensional pattern matching. Both use the automaton of the Aho-Corasick multiple pattern matching algorithm to locate all the occurrences of a two-dimensional pattern in a two-dimensional input string, a data structure that is considered by many as inefficient, especially when used to process long patterns or data using large alphabet sizes. This article presents variants of the Baker and Bird and the Baeza-Yates and Regnier algorithms that use the data structures of the Set Horspool, Wu-Manber, Set Backward Oracle Matching, and SOG multiple pattern matching algorithms in place of the automaton of Aho-Corasick and evaluates their performance experimentally in terms of preprocessing and searching time.},
   bibtex_show={true},
+  selected = {true},
   preview={JEA13_1.png},
   pdf={JEA13_1.pdf},
   doi={10.1145/2513148},
