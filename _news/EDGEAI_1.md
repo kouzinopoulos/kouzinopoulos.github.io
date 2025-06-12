@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "~~Postdoctoral Researcher position in Edge AI available~~ (deadline 08/06/2025)"
+title: "Postdoctoral Researcher position in Edge AI available (deadline 08/06/2025) <b>(closed)</b>"
 date: 2025-05-06
 inline: false
 related_posts: false
