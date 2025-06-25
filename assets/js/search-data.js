@@ -462,6 +462,11 @@ ninja.data = [{
           description: "",
           section: "Theses",handler: () => {
               window.location.href = "/theses/Botrytis%20cinerea/";
+            },},{id: "theses-efficient-multiscale-targeting-and-evidence-based-response-to-crop-diseases",
+          title: 'Efficient multiscale targeting and evidence-based response to crop diseases',
+          description: "",
+          section: "Theses",handler: () => {
+              window.location.href = "/theses/Efficient%20multiscale%20targeting%20and%20evidence-based%20response%20to%20crop%20diseases/";
             },},{id: "theses-deep-learning-bsc-edge-ai-on-embedded-systems-for-pest-detection-in-tomato-plants",
           title: 'Deep Learning - BSc - Edge AI on Embedded Systems for Pest Detection...',
           description: "",
