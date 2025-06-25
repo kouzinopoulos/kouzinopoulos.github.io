@@ -407,8 +407,8 @@ ninja.data = [{
           section: "News",},{id: "news-paper-adaptively-pruned-spiking-neural-networks-for-energy-efficient-intracortical-neural-decoding-accepted-at-embc-2025",
           title: 'Paper Adaptively Pruned Spiking Neural Networks for Energy-Efficient Intracortical Neural Decoding accepted at...',
           description: "",
-          section: "News",},{id: "news-postdoctoral-researcher-position-in-edge-ai-available-deadline-08-06-2025-closed",
-          title: 'Postdoctoral Researcher position in Edge AI available (deadline 08/06/2025) (closed)',
+          section: "News",},{id: "news-postdoctoral-researcher-position-in-edge-ai-available-deadline-08-06-2025-vacancy-closed",
+          title: 'Postdoctoral Researcher position in Edge AI available (deadline 08/06/2025) (vacancy closed)',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/EDGEAI_1/";
@@ -457,18 +457,13 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "theses-deep-learning-bsc-msc-edge-ai-on-embedded-systems-for-gray-mold-disease-detection",
-          title: 'Deep Learning - BSc/MSc - Edge AI on Embedded Systems for Gray Mold...',
+            },},{id: "theses-deep-learning-bsc-edge-ai-on-embedded-systems-for-gray-mold-disease-detection",
+          title: 'Deep Learning - BSc - Edge AI on Embedded Systems for Gray Mold...',
           description: "",
           section: "Theses",handler: () => {
               window.location.href = "/theses/Botrytis%20cinerea/";
-            },},{id: "theses-development-of-a-dk-aware-ai-framework-for-enhanced-resilience-in-data-scarce-environments",
-          title: 'Development of a DK-aware AI framework for enhanced resilience in data-scarce environments',
-          description: "",
-          section: "Theses",handler: () => {
-              window.location.href = "/theses/Leukemia/";
-            },},{id: "theses-deep-learning-bsc-msc-edge-ai-on-embedded-systems-for-pest-detection-in-tomato-plants",
-          title: 'Deep Learning - BSc/MSc - Edge AI on Embedded Systems for Pest Detection...',
+            },},{id: "theses-deep-learning-bsc-edge-ai-on-embedded-systems-for-pest-detection-in-tomato-plants",
+          title: 'Deep Learning - BSc - Edge AI on Embedded Systems for Pest Detection...',
           description: "",
           section: "Theses",handler: () => {
               window.location.href = "/theses/tuta/";
