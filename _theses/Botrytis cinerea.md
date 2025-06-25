@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Deep Learning - BSc/MSc - Edge AI on Embedded Systems for Gray Mold Disease Detection"
+title: "Deep Learning - BSc - Edge AI on Embedded Systems for Gray Mold Disease Detection"
 inline: false
 related_posts: false
 ---
@@ -27,7 +27,7 @@ An extensive survey of computer vision Edge AI models for image classification a
 <li> Willingness to contribute to the state-of-the-art Deep Learning models </li>
 </ol>
 
-<ol>
+<ul>
 <li> [1] Howard, Andrew G., Menglong Zhu, Bo Chen, Dmitry Kalenichenko, Weijun Wang, Tobias Weyand, Marco Andreetto, and Hartwig Adam. </li>"MobileNets: <li> Efficient Convolutional Neural Networks for Mobile Vision Applications"</li>
 <li> [2] Tan, Mingxing, and Quoc V. Le. "EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks"</li>
 <li> [3] R. Girshick, J. Donahue, T. Darrell, and J. Malik, "Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation"</li>
@@ -35,4 +35,4 @@ An extensive survey of computer vision Edge AI models for image classification a
 <li> [5] Lin, Ji, Wei-Ming Chen, Yujun Lin, John Cohn, Chuang Gan, and Song Han. "MCUNet: Tiny Deep Learning on IoT Devices."</li>
 <li> [6] A. Papaioannou, C.S. Kouzinopoulos, D. Ioannidis, and D. Tzovaras. "An Ultra-Low-Power Embedded AI Fire Detection and Crowd Counting System for Indoor Areas"</li>
 <li> [7] https://zenodo.org/records/7383601</li>
-</ol>
+</ul>
