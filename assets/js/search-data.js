@@ -467,6 +467,16 @@ ninja.data = [{
           description: "",
           section: "Theses",handler: () => {
               window.location.href = "/theses/Efficient%20multiscale%20targeting%20and%20evidence-based%20response%20to%20crop%20diseases/";
+            },},{id: "theses-hardware-acceleration-of-deep-learning-models-for-particle-tracking-at-the-lhc-and-beyond",
+          title: 'Hardware acceleration of deep learning models for particle tracking at the LHC and...',
+          description: "",
+          section: "Theses",handler: () => {
+              window.location.href = "/theses/Hardware%20acceleration%20of%20deep%20learning%20models%20for%20particle%20tracking%20at%20the%20LHC%20and%20beyond/";
+            },},{id: "theses-model-compression-and-optimization-of-deep-learning-architectures-for-particle-tracking-at-the-lhc-and-beyond",
+          title: 'Model compression and optimization of deep learning architectures for particle tracking at the...',
+          description: "",
+          section: "Theses",handler: () => {
+              window.location.href = "/theses/Model%20compression%20and%20optimization%20of%20deep%20learning%20architectures%20for%20particle%20tracking%20at%20the%20LHC%20and%20beyond/";
             },},{id: "theses-deep-learning-bsc-edge-ai-on-embedded-systems-for-pest-detection-in-tomato-plants",
           title: 'Deep Learning - BSc - Edge AI on Embedded Systems for Pest Detection...',
           description: "",
