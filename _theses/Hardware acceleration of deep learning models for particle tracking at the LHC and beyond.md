@@ -5,8 +5,8 @@ inline: false
 related_posts: false
 ---
 
-<i><h4>This project will be performed in collaboration with the Maastricht Science Programme and Nikhef
-</h4></i>
+<i>This project will be performed in collaboration with the Maastricht Science Programme and Nikhef
+</i>
 
 <h3>Objective</h3>
 
