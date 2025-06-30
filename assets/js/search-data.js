@@ -412,7 +412,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/EDGEAI_1/";
-            },},{id: "projects-project-1",
+            },},{id: "news-paper-a-segmented-robot-grasping-perception-neural-network-for-edge-ai-accepted-at-smc-2025",
+          title: 'Paper A segmented robot grasping perception neural network for edge AI accepted at...',
+          description: "",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
