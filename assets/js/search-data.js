@@ -465,11 +465,11 @@ ninja.data = [{
           description: "",
           section: "Theses",handler: () => {
               window.location.href = "/theses/Botrytis%20cinerea/";
-            },},{id: "theses-efficient-multiscale-targeting-and-evidence-based-response-to-crop-diseases",
-          title: 'Efficient multiscale targeting and evidence-based response to crop diseases',
+            },},{id: "theses-efficient-multiscale-computer-vision-targeting-and-evidence-based-response-to-crop-diseases",
+          title: 'Efficient multiscale computer vision targeting and evidence-based response to crop diseases',
           description: "",
           section: "Theses",handler: () => {
-              window.location.href = "/theses/Efficient%20multiscale%20targeting%20and%20evidence-based%20response%20to%20crop%20diseases/";
+              window.location.href = "/theses/Efficient%20multiscale%20computer%20vision%20targeting%20and%20evidence-based%20response%20to%20crop%20diseases/";
             },},{id: "theses-hardware-acceleration-of-deep-learning-models-for-particle-tracking-at-the-lhc-and-beyond",
           title: 'Hardware acceleration of deep learning models for particle tracking at the LHC and...',
           description: "",
