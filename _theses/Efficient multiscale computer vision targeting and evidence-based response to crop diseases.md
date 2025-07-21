@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Efficient multiscale targeting and evidence-based response to crop diseases"
+title: "Efficient multiscale computer vision targeting and evidence-based response to crop diseases"
 inline: false
 related_posts: false
 ---
