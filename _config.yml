@@ -207,7 +207,6 @@ exclude:
   - _news/announcement_*.md
   - _pages/books
   - _pages/blog
-  - _pages/projects
   - _pages/repositories
   - _pages/profiles
   - _pages/dropdown
