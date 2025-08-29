@@ -422,12 +422,7 @@ ninja.data = [{
             },},{id: "news-paper-a-segmented-robot-grasping-perception-neural-network-for-edge-ai-accepted-at-smc-2025",
           title: 'Paper A segmented robot grasping perception neural network for edge AI accepted at...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
+          section: "News",},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
@@ -467,6 +462,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-digimach",
+          title: 'DigiMach',
+          description: "Digital Transformation of the Machining Value Chain for Sustainable Growth",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/digimach/";
             },},{id: "theses-deep-learning-bsc-edge-ai-on-embedded-systems-for-gray-mold-disease-detection",
           title: 'Deep Learning - BSc - Edge AI on Embedded Systems for Gray Mold...',
           description: "",
