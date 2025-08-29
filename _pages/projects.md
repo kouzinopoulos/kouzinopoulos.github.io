@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: European and national projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Projects I am currently working on
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [European]
 horizontal: false
 ---
 
