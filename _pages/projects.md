@@ -1,8 +1,8 @@
 ---
 layout: page
-title: European and national projects
+title: Projects
 permalink: /projects/
-description: Projects I am currently working on
+description: List of current European and national projects
 nav: true
 nav_order: 3
 display_categories: [European]

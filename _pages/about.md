@@ -31,7 +31,7 @@ I am an <b>Assistant Professor of the Internet of Things</b> and <b>Coordinator 
 
 My research vision centers on developing sustainable, low-power, intelligent systems for the Internet of Things across high-impact application areas for society, including Digital Agriculture, Smart Cities, Healthcare and the Industry 4.0.
 
-Research interests:
+<strong>Research interests:</strong>
 
 <ul>
   <li><strong>Hardware design and integration</strong> with a focus on low power consumption and miniaturization</li>
@@ -40,4 +40,10 @@ Research interests:
   <li><strong>Computer architecture</strong></li>
   <li><strong>Parallel and distributed computing</strong></li>
   <li><strong>GPGPU/TPU computing</strong></li>
+</ul> 
+
+<strong>Research grant initiatives as Principal Investigator for Maastricht University:</strong>
+
+<ul>
+  <li><strong><a href='https://www.interregmeuserhine.eu/en/projects/digimach/'>DigiMach</a></strong> (€3.6m euro, €721k euro for UM)</li> European Regional Development Fund / Interreg Meuse - Rhine. Digital Transformation of the Machining Value Chain for Sustainable Growth
 </ul> 
