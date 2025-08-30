@@ -16,9 +16,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-european-and-national-projects",
-          title: "European and national projects",
-          description: "Projects I am currently working on",
+        },{id: "nav-projects",
+          title: "Projects",
+          description: "List of current European and national projects",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
