@@ -42,7 +42,7 @@ My research vision centers on developing sustainable, low-power, intelligent sys
   <li><strong>GPGPU/TPU computing</strong></li>
 </ul> 
 
-<strong>Research grant initiatives as Principal Investigator for Maastricht University:</strong>
+<strong>Research grant initiatives as Principal Investigator:</strong>
 
 <ul>
   <li><strong><a href='https://www.interregmeuserhine.eu/en/projects/digimach/'>DigiMach</a></strong> (€3.6m euro, €721k euro for UM)</li> European Regional Development Fund / Interreg Meuse - Rhine. Digital Transformation of the Machining Value Chain for Sustainable Growth
