@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Project <a href="https://www.interregmeuserhine.eu/en/projects/digimach/">**DigiMach**</a> was funded by  <a href="https://www.interregmeuserhine.eu/en/">**Interreg Meuse-Rhine**</a> and has officially started
+Project <a href="https://www.interregmeuserhine.eu/en/projects/digimach/">**DigiMach**</a> was funded by <a href="https://www.interregmeuserhine.eu/en/">**Interreg Meuse-Rhine**</a>
