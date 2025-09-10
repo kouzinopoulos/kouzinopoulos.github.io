@@ -405,8 +405,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-paper-predicting-the-lifespan-of-industrial-printheads-with-survival-analysis-accepted-at-icps-2025",
-          title: 'Paper Predicting the Lifespan of Industrial Printheads with Survival Analysis accepted at ICPS...',
+            },},{id: "news-paper-predicting-the-lifespan-of-industrial-printheads-with-survival-analysis-in-collaboration-with-canon-production-printing-accepted-at-icps-2025",
+          title: 'Paper Predicting the Lifespan of Industrial Printheads with Survival Analysis, in collaboration with...',
           description: "",
           section: "News",},{id: "news-poster-presentation-data-driven-solutions-for-lifespan-and-failure-prediction-in-printing-systems-at-ict-open-2025-in-collaboration-with-canon-production-printing",
           title: 'Poster presentation Data-Driven Solutions for Lifespan and Failure Prediction in Printing Systems at...',
@@ -425,8 +425,8 @@ ninja.data = [{
           section: "News",},{id: "news-project-digimach-was-funded-by-interreg-meuse-rhine",
           title: 'Project DigiMach was funded by Interreg Meuse-Rhine',
           description: "",
-          section: "News",},{id: "news-paper-machine-learning-for-pattern-detection-in-printhead-nozzle-logging-accepted-at-ictai-2025",
-          title: 'Paper Machine Learning for Pattern Detection in Printhead Nozzle Logging accepted at ICTAI...',
+          section: "News",},{id: "news-paper-machine-learning-for-pattern-detection-in-printhead-nozzle-logging-in-collaboration-with-canon-production-printing-accepted-at-ictai-2025",
+          title: 'Paper Machine Learning for Pattern Detection in Printhead Nozzle Logging, in collaboration with...',
           description: "",
           section: "News",},{id: "projects-digimach",
           title: 'DigiMach',
