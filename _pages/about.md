@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 10 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
@@ -45,5 +45,5 @@ My research vision centers on developing sustainable, low-power, intelligent sys
 <strong>Research grant initiatives as Principal Investigator:</strong>
 
 <ul>
-  <li><strong><a href='https://www.interregmeuserhine.eu/en/projects/digimach/'>DigiMach</a></strong> (€3.6m euro, €721k euro for UM)</li> European Regional Development Fund / Interreg Meuse - Rhine. Digital Transformation of the Machining Value Chain for Sustainable Growth
+  <li><strong><a href='https://www.interregmeuserhine.eu/en/projects/digimach/'>DigiMach</a></strong> (€3.6m euro, €469k euro for UM, €272k for DACS)</li> European Regional Development Fund / Interreg Meuse - Rhine. Digital Transformation of the Machining Value Chain for Sustainable Growth
 </ul> 
