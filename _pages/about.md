@@ -45,5 +45,5 @@ My research vision centers on developing sustainable, low-power, intelligent sys
 <strong>Research grant initiatives as Principal Investigator:</strong>
 
 <ul>
-  <li><strong><a href='https://www.interregmeuserhine.eu/en/projects/digimach/'>DigiMach</a></strong> (€3.6m euro, €469k euro for UM, €272k for DACS)</li> European Regional Development Fund / Interreg Meuse - Rhine. Digital Transformation of the Machining Value Chain for Sustainable Growth
+  <li><strong><a href='https://www.interregmeuserhine.eu/en/projects/digimach/'>DigiMach</a></strong> (€3.6m total, €469k for UM, €272k for DACS)</li> European Regional Development Fund / Interreg Meuse - Rhine. Digital Transformation of the Machining Value Chain for Sustainable Growth
 </ul> 

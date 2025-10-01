@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper **Machine Learning for Pattern Detection in Printhead Nozzle Logging**, in collaboration with <a href="https://cpp.canon/"> Canon Production Printing</a>, accepted at <a href="https://easyconferences.eu/ictai2025/">**ICTAI 2025**</a>
+Paper <a href="https://arxiv.org/abs/2509.25235">**Machine Learning for Pattern Detection in Printhead Nozzle Logging**</a>, in collaboration with <a href="https://cpp.canon/">**Canon Production Printing**</a>, accepted at <a href="https://easyconferences.eu/ictai2025/">**ICTAI 2025**</a>
