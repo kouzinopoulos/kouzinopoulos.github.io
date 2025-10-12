@@ -436,11 +436,21 @@ ninja.data = [{
           description: "Digital Transformation of the Machining Value Chain for Sustainable Growth",
           section: "Projects",handler: () => {
               window.location.href = "/projects/digimach/";
+            },},{id: "theses-beeaive-machine-learning-for-queen-presence-classification-in-beehive-audio-with-edge-deployment",
+          title: 'BeeAIve: Machine Learning for Queen Presence Classification in Beehive Audio with Edge Deployment...',
+          description: "",
+          section: "Theses",handler: () => {
+              window.location.href = "/theses/BeeAIve/";
             },},{id: "theses-deep-learning-bsc-edge-ai-on-embedded-systems-for-gray-mold-disease-detection",
           title: 'Deep Learning - BSc - Edge AI on Embedded Systems for Gray Mold...',
           description: "",
           section: "Theses",handler: () => {
               window.location.href = "/theses/Botrytis%20cinerea/";
+            },},{id: "theses-collaborative-weed-detection-at-the-edge-using-federated-learning",
+          title: 'Collaborative weed detection at the edge using federated learning',
+          description: "",
+          section: "Theses",handler: () => {
+              window.location.href = "/theses/Collaborative%20weed%20detection%20at%20the%20edge%20using%20federated%20learning/";
             },},{id: "theses-efficient-multiscale-computer-vision-targeting-and-evidence-based-response-to-crop-diseases",
           title: 'Efficient multiscale computer vision targeting and evidence-based response to crop diseases',
           description: "",
@@ -456,6 +466,16 @@ ninja.data = [{
           description: "",
           section: "Theses",handler: () => {
               window.location.href = "/theses/Model%20compression%20and%20optimization%20of%20deep%20learning%20architectures%20for%20particle%20tracking%20at%20the%20LHC%20and%20beyond/";
+            },},{id: "theses-one-shot-vs-iterative-pruning",
+          title: 'One shot vs. iterative pruning',
+          description: "",
+          section: "Theses",handler: () => {
+              window.location.href = "/theses/One%20shot%20vs.%20iterative%20pruning/";
+            },},{id: "theses-physics-informed-deep-learning-in-machining-equipment",
+          title: 'Physics informed deep learning in machining equipment',
+          description: "",
+          section: "Theses",handler: () => {
+              window.location.href = "/theses/Physics%20informed%20deep%20learning%20in%20machining%20equipment/";
             },},{id: "theses-deep-learning-bsc-edge-ai-on-embedded-systems-for-pest-detection-in-tomato-plants",
           title: 'Deep Learning - BSc - Edge AI on Embedded Systems for Pest Detection...',
           description: "",
