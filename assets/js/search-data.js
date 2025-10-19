@@ -456,11 +456,21 @@ ninja.data = [{
           description: "",
           section: "Theses",handler: () => {
               window.location.href = "/theses/Efficient%20multiscale%20computer%20vision%20targeting%20and%20evidence-based%20response%20to%20crop%20diseases/";
+            },},{id: "theses-exploring-logarithmic-quantization-for-efficient-neural-network-inference",
+          title: 'Exploring logarithmic quantization for efficient neural network inference',
+          description: "",
+          section: "Theses",handler: () => {
+              window.location.href = "/theses/Exploring%20logarithmic%20quantization%20for%20efficient%20neural%20network%20inference/";
             },},{id: "theses-hardware-acceleration-of-deep-learning-models-for-particle-tracking-at-the-lhc-and-beyond",
           title: 'Hardware acceleration of deep learning models for particle tracking at the LHC and...',
           description: "",
           section: "Theses",handler: () => {
               window.location.href = "/theses/Hardware%20acceleration%20of%20deep%20learning%20models%20for%20particle%20tracking%20at%20the%20LHC%20and%20beyond/";
+            },},{id: "theses-hardware-aware-low-rank-factorization",
+          title: 'Hardware-Aware Low-Rank Factorization',
+          description: "",
+          section: "Theses",handler: () => {
+              window.location.href = "/theses/Hardware-Aware%20Low-Rank%20Factorization/";
             },},{id: "theses-model-compression-and-optimization-of-deep-learning-architectures-for-particle-tracking-at-the-lhc-and-beyond",
           title: 'Model compression and optimization of deep learning architectures for particle tracking at the...',
           description: "",
@@ -476,6 +486,11 @@ ninja.data = [{
           description: "",
           section: "Theses",handler: () => {
               window.location.href = "/theses/Physics%20informed%20deep%20learning%20in%20machining%20equipment/";
+            },},{id: "theses-study-and-comparative-evaluation-of-vector-and-accelerator-implementations-for-the-risc-v-architecture",
+          title: 'Study and comparative evaluation of vector and accelerator implementations for the RISC-V architecture...',
+          description: "",
+          section: "Theses",handler: () => {
+              window.location.href = "/theses/Study%20and%20comparative%20evaluation%20of%20vector%20and%20accelerator%20implementations%20for%20the%20RISC-V%20architecture/";
             },},{id: "theses-deep-learning-bsc-edge-ai-on-embedded-systems-for-pest-detection-in-tomato-plants",
           title: 'Deep Learning - BSc - Edge AI on Embedded Systems for Pest Detection...',
           description: "",
