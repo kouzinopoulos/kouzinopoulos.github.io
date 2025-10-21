@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Deep Learning - BSc - Edge AI on Embedded Systems for Pest Detection in Tomato Plants"
+title: "Edge AI on Embedded Systems for Pest Detection in Tomato Plants"
 inline: false
 related_posts: false
 ---

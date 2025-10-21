@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Deep Learning - BSc - Edge AI on Embedded Systems for Gray Mold Disease Detection"
+title: "Edge AI on Embedded Systems for Gray Mold Disease Detection"
 inline: false
 related_posts: false
 ---
