@@ -441,8 +441,8 @@ ninja.data = [{
           description: "",
           section: "Theses",handler: () => {
               window.location.href = "/theses/BeeAIve/";
-            },},{id: "theses-deep-learning-bsc-edge-ai-on-embedded-systems-for-gray-mold-disease-detection",
-          title: 'Deep Learning - BSc - Edge AI on Embedded Systems for Gray Mold...',
+            },},{id: "theses-edge-ai-on-embedded-systems-for-gray-mold-disease-detection",
+          title: 'Edge AI on Embedded Systems for Gray Mold Disease Detection',
           description: "",
           section: "Theses",handler: () => {
               window.location.href = "/theses/Botrytis%20cinerea/";
@@ -491,8 +491,8 @@ ninja.data = [{
           description: "",
           section: "Theses",handler: () => {
               window.location.href = "/theses/Study%20and%20comparative%20evaluation%20of%20vector%20and%20accelerator%20implementations%20for%20the%20RISC-V%20architecture/";
-            },},{id: "theses-deep-learning-bsc-edge-ai-on-embedded-systems-for-pest-detection-in-tomato-plants",
-          title: 'Deep Learning - BSc - Edge AI on Embedded Systems for Pest Detection...',
+            },},{id: "theses-edge-ai-on-embedded-systems-for-pest-detection-in-tomato-plants",
+          title: 'Edge AI on Embedded Systems for Pest Detection in Tomato Plants',
           description: "",
           section: "Theses",handler: () => {
               window.location.href = "/theses/tuta/";
