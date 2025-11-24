@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Workshop <a href="https://sites.google.com/view/lpai4ia/home">**LPAI4IA 2026 - Low-power edge AI for industrial applications**</a> was accepted for inclusion at the <a href="https://attend.ieee.org/wcci-2026/">**IJCNN 2026**</a> conference.
+Workshop [**LPAI4IA 2026 - Low-power edge AI for industrial applications**](https://sites.google.com/view/lpai4ia/home) was accepted for inclusion at the [**IJCNN 2026**](https://attend.ieee.org/wcci-2026/) conference.
