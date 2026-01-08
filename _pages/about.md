@@ -49,17 +49,17 @@ My research vision centers on developing sustainable, low-power, intelligent sys
 </ul>
 
 <strong>Service</strong>
-<h2>External Reviewing for Journals</h2>
+<h4>External Reviewing for Journals</h4>
 <ul>
   <li>Elsevier Journal of Systems Architecture (JSA)</li>
 </ul>
 
-<h2>Conference Organization</h2>
+<h4>Conference Organization</h4>
 <ul>
   <li>Organizer of the LPAI4IA 2026 workshop at WCCI</li>
 </ul>
 
-<h2>Conference TPC</h2>
+<h4>Conference TPC</h4>
 <ul>
   <li>MOCAST 2024</li>
   <li>MOCAST 2025</li>
