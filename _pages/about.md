@@ -49,6 +49,7 @@ My research vision centers on developing sustainable, low-power, intelligent sys
 </ul>
 
 <strong>Service</strong>
+
 <strong>External Reviewing for Journals</strong>
 <ul>
   <li>Elsevier Journal of Systems Architecture (JSA)</li>
