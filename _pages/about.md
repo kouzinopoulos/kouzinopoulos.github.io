@@ -52,18 +52,24 @@ My research vision centers on developing sustainable, low-power, intelligent sys
 
 <strong>External Reviewing for Journals</strong>
 <ul>
-  <li>Elsevier Journal of Systems Architecture (JSA)</li>
+  <li><a href='https://www.sciencedirect.com/journal/journal-of-systems-architecture'>Elsevier Journal of Systems Architecture (JSA)</a></li>
+</ul>
+
+<strong>External Reviewing for Conferences</strong>
+<ul>
+  <li><a href='https://attend.ieee.org/wcci-2026/'>IJCNN2026</a></li>
+  <li><a href='https://2025.ijcnn.org/'>IJCNN2025</a></li>
 </ul>
 
 <strong>Conference Organization</strong>
 <ul>
-  <li>Organizer of the LPAI4IA 2026 workshop at WCCI</li>
+  <li>LPAI4IA 2026 workshop at WCCI</li>
 </ul>
 
 <strong>Conference TPC</strong>
 <ul>
-  <li>MOCAST 2024</li>
-  <li>MOCAST 2025</li>
   <li>MOCAST 2026</li>
+  <li>MOCAST 2025</li>
+  <li>MOCAST 2024</li>
 </ul>
 
