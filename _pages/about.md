@@ -66,9 +66,9 @@ My research vision centers on developing sustainable, low-power, intelligent sys
   <li>LPAI4IA 2026 workshop at WCCI</li>
 </ul>
 
-<strong>Conference TPC</strong>
+<strong>Conference/Workshop TPC</strong>
 <ul>
-  <li><a href='https://www.enssys.org/2026/'>ENSSYS2026</a> workshop at CPS-IoT Week<li> 
+  <li><a href='https://www.enssys.org/2026/'>ENSSYS2026</a> workshop at CPS-IoT Week</li> 
   <li>MOCAST 2026</li>
   <li>MOCAST 2025</li>
   <li>MOCAST 2024</li>
