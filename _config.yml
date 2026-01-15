@@ -218,7 +218,6 @@ exclude:
   - _pages/repositories
   - _pages/profiles
   - _pages/dropdown
-  - _theses/Leukemia.md
 keep_files:
   - CNAME
   - .nojekyll
