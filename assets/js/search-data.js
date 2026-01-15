@@ -432,6 +432,16 @@ ninja.data = [{
           description: "",
           section: "Theses",handler: () => {
               window.location.href = "/theses/Collaborative%20weed%20detection%20at%20the%20edge%20using%20federated%20learning/";
+            },},{id: "theses-deep-learning-for-telemetry-data-analysis-in-satellite-missions",
+          title: 'Deep Learning for Telemetry Data Analysis in Satellite Missions',
+          description: "",
+          section: "Theses",handler: () => {
+              window.location.href = "/theses/Deep%20Learning%20for%20Telemetry%20Data%20Analysis%20in%20Satellite%20Missions/";
+            },},{id: "theses-edge-ai-for-space-debris-streaks-detection",
+          title: 'Edge AI for Space Debris Streaks Detection',
+          description: "",
+          section: "Theses",handler: () => {
+              window.location.href = "/theses/Edge%20AI%20for%20Space%20Debris%20Streaks%20Detection/";
             },},{id: "theses-efficient-multiscale-computer-vision-targeting-and-evidence-based-response-to-crop-diseases",
           title: 'Efficient multiscale computer vision targeting and evidence-based response to crop diseases',
           description: "",
