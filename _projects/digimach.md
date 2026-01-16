@@ -8,7 +8,8 @@ category: European
 related_publications: false
 ---
 
-![Digimach banner](assets/img/digimach.png)
+{% include figure.liquid path="assets/img/digimach.png" title="Digimach banner" %}
 
 <a href='https://www.interregmeuserhine.eu/en/projects/digimach/'>Project website</a>
+  
 <a href='https://www.linkedin.com/company/digimach/posts/?feedView=all'>Project LinkedIn page</a>
