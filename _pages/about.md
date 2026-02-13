@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 10 # leave blank to include all the news in the `_news` folder
+  limit: 8 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
@@ -48,29 +48,17 @@ My research vision centers on developing sustainable, low-power, intelligent sys
   <li><strong><a href='https://www.interregmeuserhine.eu/en/projects/digimach/'>DigiMach</a></strong> (€3.6m total, €469k for UM, €272k for DACS)</li> European Regional Development Fund / Interreg Meuse - Rhine. Digital Transformation of the Machining Value Chain for Sustainable Growth
 </ul>
 
-<strong>Service</strong>
+<strong>Academic Service</strong>
 
-<strong>External Reviewing for Journals</strong>
 <ul>
-  <li><a href='https://www.sciencedirect.com/journal/journal-of-systems-architecture'>Elsevier Journal of Systems Architecture (JSA)</a></li>
+  <li><strong>Journal Reviewer and Conference/Workshop TPC member</strong></li>
+  <ul>
+    <li><a href='https://www.sciencedirect.com/journal/journal-of-systems-architecture'>Elsevier Journal of Systems Architecture (JSA)</a>, <a href='https://attend.ieee.org/wcci-2026/'>IJCNN 2026</a>, <a href='https://www.enssys.org/2026/'>ENSSYS 2026</a> workshop at <a href='https://cps-iot-week2026.inria.fr/'>CPS-IoT Week</a>, MOCAST 2026, <a href='https://2025.ijcnn.org/'>IJCNN 2025</a>, MOCAST 2025, MOCAST 2024</li>
+  </ul>
 </ul>
 
-<strong>External Reviewing for Conferences</strong>
 <ul>
-  <li><a href='https://attend.ieee.org/wcci-2026/'>IJCNN2026</a></li>
-  <li><a href='https://2025.ijcnn.org/'>IJCNN2025</a></li>
-</ul>
-
-<strong>Conference Organization</strong>
+<li><strong>Conference/Workshop Organization</strong></li>
 <ul>
-  <li>LPAI4IA 2026 workshop at WCCI</li>
+  <li>[LPAI4IA 2026 - Low-power edge AI for industrial applications](https://sites.google.com/view/lpai4ia/home) workshop at [IJCNN 2026](https://attend.ieee.org/wcci-2026/)</li>
 </ul>
-
-<strong>Conference/Workshop TPC</strong>
-<ul>
-  <li><a href='https://www.enssys.org/2026/'>ENSSYS2026</a> workshop at CPS-IoT Week</li> 
-  <li>MOCAST 2026</li>
-  <li>MOCAST 2025</li>
-  <li>MOCAST 2024</li>
-</ul>
-
