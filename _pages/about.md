@@ -53,12 +53,12 @@ My research vision centers on developing sustainable, low-power, intelligent sys
 <ul>
   <li><strong>Journal Reviewer and Conference/Workshop TPC member</strong></li>
   <ul>
-    <li><a href='https://www.sciencedirect.com/journal/journal-of-systems-architecture'>Elsevier Journal of Systems Architecture (JSA)</a>, <a href='https://attend.ieee.org/wcci-2026/'>IJCNN 2026</a>, <a href='https://www.enssys.org/2026/'>ENSSYS 2026</a> workshop at <a href='https://cps-iot-week2026.inria.fr/'>CPS-IoT Week</a>, MOCAST 2026, <a href='https://2025.ijcnn.org/'>IJCNN 2025</a>, MOCAST 2025, MOCAST 2024</li>
+    <li><a href='https://www.sciencedirect.com/journal/journal-of-systems-architecture'>Elsevier Journal of Systems Architecture (JSA)</a> | <a href='https://attend.ieee.org/wcci-2026/'>IJCNN 2026</a> | <a href='https://www.enssys.org/2026/'>ENSSYS 2026</a> workshop at <a href='https://cps-iot-week2026.inria.fr/'>CPS-IoT Week</a> | <a href='https://mocast2026.uib.es/'>MOCAST 2026</a> | <a href='https://2025.ijcnn.org/'>IJCNN 2025</a> | <a href='https://tu-dresden.de/ing/elektrotechnik/iee/mocast2025?set_language=en'>MOCAST 2025</a> | <a href='https://www.mocast.eu/'>MOCAST 2024</a></li>
   </ul>
 </ul>
 
 <ul>
 <li><strong>Conference/Workshop Organization</strong></li>
 <ul>
-  <li>[LPAI4IA 2026 - Low-power edge AI for industrial applications](https://sites.google.com/view/lpai4ia/home) workshop at [IJCNN 2026](https://attend.ieee.org/wcci-2026/)</li>
+  <li><a href='sites.google.com/view/lpai4ia/home'>LPAI4IA 2026 - Low-power edge AI for industrial applications</a> workshop at <a href='https://attend.ieee.org/wcci-2026/'>IJCNN 2026</a></li>
 </ul>
