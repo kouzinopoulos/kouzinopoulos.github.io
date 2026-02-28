@@ -491,32 +491,11 @@ ninja.data = [{
           section: "Theses",handler: () => {
               window.location.href = "/theses/tuta/";
             },},{
-        id: 'social-bluesky',
-        title: 'Bluesky',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://bsky.app/profile/kouzinopoulos.bsky.social", "_blank");
-        },
-      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
           window.open("mailto:%63%68%61%72%69%73.%6B%6F%75%7A%69%6E%6F%70%6F%75%6C%6F%73@%6D%61%61%73%74%72%69%63%68%74%75%6E%69%76%65%72%73%69%74%79.%6E%6C", "_blank");
-        },
-      },{
-        id: 'social-linkedin',
-        title: 'LinkedIn',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.linkedin.com/in/kouzinopoulos", "_blank");
-        },
-      },{
-        id: 'social-orcid',
-        title: 'ORCID',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://orcid.org/0000-0001-8829-504X", "_blank");
         },
       },{
         id: 'social-rss',
@@ -531,13 +510,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=T9xaZc8AAAAJ", "_blank");
-        },
-      },{
-        id: 'social-x',
-        title: 'X',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://twitter.com/kouzinopoulos", "_blank");
         },
       },{
       id: 'light-theme',
