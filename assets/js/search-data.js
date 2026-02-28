@@ -495,14 +495,14 @@ ninja.data = [{
         title: 'arXiv',
         section: 'Socials',
         handler: () => {
-          window.open("https://arxiv.org/a/http://arxiv.org/a/kouzinopoulos_c_1.html", "_blank");
+          window.open("https://arxiv.org/a/kouzinopoulos_c_1.html", "_blank");
         },
       },{
         id: 'social-bluesky',
         title: 'Bluesky',
         section: 'Socials',
         handler: () => {
-          window.open("kouzinopoulos.bsky.social", "_blank");
+          window.open("https://bsky.app/profile/kouzinopoulos.bsky.social", "_blank");
         },
       },{
         id: 'social-email',
@@ -510,13 +510,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("mailto:%63%68%61%72%69%73.%6B%6F%75%7A%69%6E%6F%70%6F%75%6C%6F%73@%6D%61%61%73%74%72%69%63%68%74%75%6E%69%76%65%72%73%69%74%79.%6E%6C", "_blank");
-        },
-      },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
         },
       },{
         id: 'social-orcid',
