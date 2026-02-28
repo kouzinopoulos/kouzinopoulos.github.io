@@ -60,5 +60,5 @@ My research vision centers on developing sustainable, low-power, intelligent sys
 <ul>
 <li><strong>Conference/Workshop Organization</strong></li>
 <ul>
-  <li><a href='sites.google.com/view/lpai4ia/home'>LPAI4IA 2026 - Low-power edge AI for industrial applications</a> workshop at <a href='https://attend.ieee.org/wcci-2026/'>IJCNN 2026</a></li>
+  <li><a href='https://sites.google.com/view/lpai4ia/home'>LPAI4IA 2026 - Low-power edge AI for industrial applications</a> workshop at <a href='https://attend.ieee.org/wcci-2026/'>IJCNN 2026</a></li>
 </ul>
