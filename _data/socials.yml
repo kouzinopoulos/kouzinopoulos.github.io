@@ -7,9 +7,9 @@
 #  organization: princeton # your organization as appears in the subdomain
 #  username:  AlbertEinstein # your username
 # acm_id: # your dl.acm.org/profile/id
-arxiv_id: http://arxiv.org/a/kouzinopoulos_c_1 # your arXiv author ID
+arxiv_id: kouzinopoulos_c_1 # your arXiv author ID
 # blogger_url: # your blogger URL
-bluesky_url: kouzinopoulos.bsky.social # your bluesky URL
+bluesky_url: https://bsky.app/profile/kouzinopoulos.bsky.social # your bluesky URL
 # cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
@@ -20,7 +20,7 @@ email: charis.kouzinopoulos@maastrichtuniversity.nl # your email address
 # gitlab_username: # your GitLab user name
 # hal_id: # your HAL id (https://hal.science/)
 # ieee_id: # your ieeexplore.ieee.org/author/id
-inspirehep_id: 1010907 # Inspire HEP author ID
+# inspirehep_id: 1010907 # Inspire HEP author ID
 # instagram_id: # your instagram id
 # kaggle_id: # your kaggle id
 # keybase_username: # your keybase user name
