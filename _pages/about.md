@@ -53,7 +53,7 @@ My research vision centers on developing sustainable, low-power, intelligent sys
 <ul>
   <li><strong>Journal Reviewer and Conference/Workshop TPC member</strong></li>
   <ul>
-    <li><a href='https://www.sciencedirect.com/journal/journal-of-systems-architecture'>Elsevier Journal of Systems Architecture (JSA)</a> | <a href='https://attend.ieee.org/wcci-2026/'>IJCNN 2026</a> | <a href='https://www.enssys.org/2026/'>ENSSYS 2026</a> workshop at <a href='https://cps-iot-week2026.inria.fr/'>CPS-IoT Week</a> | <a href='https://mocast2026.uib.es/'>MOCAST 2026</a> | <a href='https://2025.ijcnn.org/'>IJCNN 2025</a> | <a href='https://tu-dresden.de/ing/elektrotechnik/iee/mocast2025?set_language=en'>MOCAST 2025</a> | <a href='https://www.mocast.eu/'>MOCAST 2024</a></li>
+    <li><a href='https://www.sciencedirect.com/journal/sensors-and-actuators-a-physical'>Elsevier Sensors and Actuators A: Physical</a> | <a href='https://www.sciencedirect.com/journal/journal-of-systems-architecture'>Elsevier Journal of Systems Architecture (JSA)</a> | <a href='https://attend.ieee.org/wcci-2026/'>IJCNN 2026</a> | <a href='https://www.enssys.org/2026/'>ENSSYS 2026</a> workshop at <a href='https://cps-iot-week2026.inria.fr/'>CPS-IoT Week</a> | <a href='https://mocast2026.uib.es/'>MOCAST 2026</a> | <a href='https://2025.ijcnn.org/'>IJCNN 2025</a> | <a href='https://tu-dresden.de/ing/elektrotechnik/iee/mocast2025?set_language=en'>MOCAST 2025</a> | <a href='https://www.mocast.eu/'>MOCAST 2024</a></li>
   </ul>
 </ul>
 
