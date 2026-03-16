@@ -31,8 +31,7 @@ I am an <b>Assistant Professor of the Internet of Things</b> and <b>Coordinator 
 
 I was a Senior Researcher at the <a href='https://www.iti.gr/iti/en/home/'>Information Technologies Institute</a> of the <a href='https://www.certh.gr/root.en.aspx'>Centre for Research and Technology Hellas</a>, in the group of <a href='https://www.iti.gr/iti/en/people/dimitrios-tzovaras/'>Dr. Dimitrios Tzovaras</a>. I was a Senior Research Fellow at the <a href='https://home.cern/science/experiments/alice'>ALICE experiment</a> of <a href='https://home.cern/'>CERN</a>, under the supervision of <a href='https://pensionfund.cern.ch/en/about-fund/governance/actuarial-and-technical-committee/peter-hristov/'>Dr. Peter Hristov</a>. I earned my PhD from the <a href='https://www.uom.gr/en/dai'>University of Macedonia</a> in Greece, under the supervision of <a href='https://www.uom.gr/en/kmarg'>Prof. Konstantinos Margaritis</a>.
 
-
-My research vision centers on developing sustainable, low-power, intelligent systems for the Internet of Things across high-impact application areas for society, including Digital Agriculture, Smart Cities, Healthcare and the Industry 4.0.
+My research vision centers on developing sustainable, low-power, intelligent systems for the Internet of Things across high-impact application areas for society, including Digital Agriculture, Smart Cities, Space and the Industry 4.0.
 
 <strong>Research interests:</strong>
 
