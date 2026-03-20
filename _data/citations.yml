@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-11'
+  last_updated: '2026-03-20'
 papers:
   T9xaZc8AAAAJ:-38epGy1wY0C:
     citations: 6
@@ -42,7 +42,7 @@ papers:
     title: Using blockchains to strengthen the security of internet of things
     year: '2018'
   T9xaZc8AAAAJ:1qzjygNMrQYC:
-    citations: 2004
+    citations: 2011
     title: "Enhanced production of multi-strange hadrons in high-multiplicity proton\u2013proton collisions"
     year: '2017'
   T9xaZc8AAAAJ:1wZ_wKGpLuwC:
@@ -58,7 +58,7 @@ papers:
     title: 'Anomalous Evolution of the Near-Side Jet Peak Shape in Pb-Pb Collisions at '
     year: '2017'
   T9xaZc8AAAAJ:2l5NCbZemmgC:
-    citations: 7
+    citations: 6
     title: 'Production of [Formula: see text] and [Formula: see text] in p-Pb collisions at [Formula: see text] TeV.'
     year: '2017'
   T9xaZc8AAAAJ:2osOgNQ5qMEC:
@@ -118,7 +118,7 @@ papers:
     title: "Search for weakly decaying \xCE n\xE2 \xBE and \xCE \xCE exotic bound states in central Pb\xE2 Pb collisions at sNN= 2.76 \xC2 TeV"
     year: '2015'
   T9xaZc8AAAAJ:7T2F9Uy0os0C:
-    citations: 483
+    citations: 484
     title: Centrality dependence of the nuclear modification factor of charged pions, kaons, and protons in Pb-Pb collisions at  TeV
     year: '2016'
   T9xaZc8AAAAJ:9VeumLvkZSQC:
@@ -150,7 +150,7 @@ papers:
     title: Multipion Bose-Einstein correlations in -Pb, and Pb-Pb collisions at energies available at the CERN Large Hadron Collider
     year: '2016'
   T9xaZc8AAAAJ:Bg7qf7VwUHIC:
-    citations: 514
+    citations: 517
     title: 'Anisotropic Flow of Charged Particles in Pb-Pb Collisions at '
     year: '2016'
   T9xaZc8AAAAJ:BrOSOlqYqPUC:
@@ -158,15 +158,15 @@ papers:
     title: phi meson production at forward rapidity in pp and Pb-Pb collisions with ALICE at the LHC
     year: '2018'
   T9xaZc8AAAAJ:BrmTIyaxlBUC:
-    citations: 957
+    citations: 958
     title: Measurement of jet quenching with semi-inclusive hadron-jet distributions in central Pb-Pb collisions at  TeV
     year: '2015'
   T9xaZc8AAAAJ:DJbcl8HfkQkC:
-    citations: 131
+    citations: 132
     title: "Search for collectivity with azimuthal J/\u03C8-hadron correlations in high multiplicity p\u2013Pb collisions at sNN= 5.02 and 8.16 TeV"
     year: '2018'
   T9xaZc8AAAAJ:DUooU5lO8OsC:
-    citations: 53
+    citations: 54
     title: Evolution of the longitudinal and azimuthal structure of the near-side jet peak in Pb-Pb collisions at  TeV
     year: '2017'
   T9xaZc8AAAAJ:D_sINldO8mEC:
@@ -202,7 +202,7 @@ papers:
     title: 'arXiv : Search for collectivity with azimuthal J/-hadron correlations in high multiplicity p-Pb collisions at  = 5.02 and 8.16 TeV'
     year: '2017'
   T9xaZc8AAAAJ:HE397vMXCloC:
-    citations: 307
+    citations: 308
     title: "Pseudorapidity and transverse-momentum distributions of charged particles in proton\u2013proton collisions at s= 13 TeV"
     year: '2016'
   T9xaZc8AAAAJ:HKviVsUxM5wC:
@@ -258,7 +258,7 @@ papers:
     title: 'Erratum to: Insight into particle production mechanisms via angular correlations of identified particles in pp collisions at  TeV'
     year: '2019'
   T9xaZc8AAAAJ:JoZmwDi-zQgC:
-    citations: 300
+    citations: 302
     title: 'Correlated Event-by-Event Fluctuations of Flow Harmonics in Pb-Pb Collisions at '
     year: '2016'
   T9xaZc8AAAAJ:KIRwYnRZzWQC:
@@ -282,7 +282,7 @@ papers:
     title: "Forward-central two-particle correlations in p\u2013Pb collisions at sNN= 5.02 TeV"
     year: '2016'
   T9xaZc8AAAAJ:LgRImbQfgY4C:
-    citations: 137
+    citations: 138
     title: "Production of inclusive \u03D2 (1S) and \u03D2 (2S) in p\u2013Pb collisions at sNN= 5.02 TeV"
     year: '2015'
   T9xaZc8AAAAJ:LjlpjdlvIbIC:
@@ -314,11 +314,11 @@ papers:
     title: "Coherent \u03C8 (2S) photo-production in ultra-peripheral PbPb collisions at sNN= 2.76 TeV"
     year: '2015'
   T9xaZc8AAAAJ:NXb4pA-qfm4C:
-    citations: 162
+    citations: 163
     title: "Linear and non-linear flow mode in Pb\u2013Pb collisions at sNN= 2.76 TeV"
     year: '2017'
   T9xaZc8AAAAJ:NyGDZy8z5eUC:
-    citations: 110
+    citations: 111
     title: Systematic studies of correlations between different order flow harmonics in Pb-Pb collisions at  TeV
     year: '2018'
   T9xaZc8AAAAJ:OP4eGU-M3BUC:
@@ -334,11 +334,11 @@ papers:
     title: Production of K(892) and (1020) in p-Pb collisions at  = 5.02 TeV
     year: '2016'
   T9xaZc8AAAAJ:PELIpwtuRlgC:
-    citations: 328
+    citations: 329
     title: "Differential studies of inclusive J/\u03C8 and \u03C8(2S) production at forward rapidity in Pb-Pb collisions at  TeV"
     year: '2016'
   T9xaZc8AAAAJ:PR6Y55bgFSsC:
-    citations: 310
+    citations: 311
     title: 'Centrality Dependence of the Charged-Particle Multiplicity Density at Midrapidity in Pb-Pb Collisions at '
     year: '2016'
   T9xaZc8AAAAJ:PZE8UkGerEcC:
@@ -390,7 +390,7 @@ papers:
     title: Exact online two-dimensional pattern matching using multiple pattern matching algorithms
     year: '2013'
   T9xaZc8AAAAJ:U3qCfcK-7lkC:
-    citations: 45
+    citations: 46
     title: "Measurement of associated Z + charm production in proton\u2013proton collisions at "
     year: '2018'
   T9xaZc8AAAAJ:UHK10RUVsp4C:
@@ -410,7 +410,7 @@ papers:
     title: Production of He-4 and (4)<(He) over bar> in Pb-Pb collisions at root (NN)-NS= 2.76 TeV at the LHC
     year: '2018'
   T9xaZc8AAAAJ:V3AGJWp-ZtQC:
-    citations: 358
+    citations: 359
     title: "Measurement of pion, kaon and proton production in proton\u2013proton collisions at  TeV"
     year: '2015'
   T9xaZc8AAAAJ:VBDT71xRUdcC:
@@ -418,7 +418,7 @@ papers:
     title: A segmented robot grasping perception neural network for edge ai
     year: '2025'
   T9xaZc8AAAAJ:VL0QpB8kHFEC:
-    citations: 510
+    citations: 511
     title: "Production of K(892) and (1020) in p\u2013Pb collisions at  = 5.02 TeV"
     year: '2016'
   T9xaZc8AAAAJ:WA5NYHcadZ8C:
@@ -450,7 +450,7 @@ papers:
     title: 'arXiv : Centrality dependence of the pseudorapidity density distribution for charged particles in Pb-Pb collisions at  TeV'
     year: '2016'
   T9xaZc8AAAAJ:ZuybSZzF8UAC:
-    citations: 882
+    citations: 883
     title: ' Suppression at Forward Rapidity in Pb-Pb Collisions at '
     year: '2012'
   T9xaZc8AAAAJ:ZzlSgRqYykMC:
@@ -462,7 +462,7 @@ papers:
     title: '"Table 14" of "Inclusive quarkonium production at forward rapidity in pp collisions at  TeV"'
     year: '2016'
   T9xaZc8AAAAJ:_B80troHkn4C:
-    citations: 289
+    citations: 291
     title: "Charged-particle multiplicities in proton\u2013proton collisions at  to 8 TeV"
     year: '2017'
   T9xaZc8AAAAJ:_n8fIOMweQoC:
@@ -586,7 +586,7 @@ papers:
     title: "Measurement of azimuthal correlations of D mesons with charged particles in pp collisions at  TeV and p\u2013Pb collisions at  TeV"
     year: '2017'
   T9xaZc8AAAAJ:kz9GbA2Ns4gC:
-    citations: 266
+    citations: 268
     title: Measurement of D-meson production at mid-rapidity in pp collisions at   TeV
     year: '2017'
   T9xaZc8AAAAJ:lmc2jWPfTJgC:
@@ -598,7 +598,7 @@ papers:
     title: Centrality dependence of the pseudorapidity density distribution for charged particles in Pb-Pb collisions at root s (NN)= 2.76 TeV
     year: '2013'
   T9xaZc8AAAAJ:mlAyqtXpCwEC:
-    citations: 122
+    citations: 123
     title: 'The ALICE Transition Radiation Detector: construction, operation, and performance'
     year: '2018'
   T9xaZc8AAAAJ:mvPsJ3kp5DgC:
@@ -622,7 +622,7 @@ papers:
     title: Higher harmonic flow coefficients of identified hadrons in Pb-Pb collisions at  TeV
     year: '2016'
   T9xaZc8AAAAJ:olpn-zPbct0C:
-    citations: 204
+    citations: 206
     title: Measurement of charged jet production cross sections and nuclear modification in p-Pb collisions at $\sqrt {s_\rm {NN}}= 5.02$ TeV
     year: '2015'
   T9xaZc8AAAAJ:onKP9CxGSkIC:
@@ -630,7 +630,7 @@ papers:
     title: Forward-central two-particle correlations in p-Pb collisions at  = 5.02 TeV
     year: '2016'
   T9xaZc8AAAAJ:p__nRnzSRKYC:
-    citations: 237
+    citations: 238
     title: Determination of the event collision time with the ALICE detector at the LHC
     year: '2017'
   T9xaZc8AAAAJ:puFLaqDw8dcC:
@@ -654,11 +654,11 @@ papers:
     title: "Inclusive quarkonium production at forward rapidity in pp collisions at\u221A s= 8 TeV TeV"
     year: '2016'
   T9xaZc8AAAAJ:rmuvC79q63oC:
-    citations: 329
+    citations: 330
     title: ' and  meson production at high transverse momentum in  and Pb-Pb collisions at  TeV'
     year: '2017'
   T9xaZc8AAAAJ:s1ouQE5r0WUC:
-    citations: 15
+    citations: 16
     title: An ultra-low-power embedded AI fire detection and crowd counting system for indoor areas
     year: '2023'
   T9xaZc8AAAAJ:s2G-WRnXBicC:
@@ -694,7 +694,7 @@ papers:
     title: Parallel implementation of exact two dimensional pattern matching algorithms using MPI and OpenMP
     year: '2009'
   T9xaZc8AAAAJ:u5HHmVD_uO8C:
-    citations: 99
+    citations: 100
     title: String matching on a multicore GPU using CUDA
     year: '2009'
   T9xaZc8AAAAJ:uEM9VtRl8xsC:
@@ -702,7 +702,7 @@ papers:
     title: Smart autonomous embedded system for collection, processing, and on-site analysis of images in conjunction with environmental data
     year: '2023'
   T9xaZc8AAAAJ:uJ-U7cs_P_0C:
-    citations: 412
+    citations: 414
     title: "Measurement of jet suppression in central Pb\u2013Pb collisions at sNN= 2.76 TeV"
     year: '2015'
   T9xaZc8AAAAJ:uLbwQdceFCQC:
@@ -730,11 +730,11 @@ papers:
     title: ALICE Coll. et al. 2016
     year: Unknown Year
   T9xaZc8AAAAJ:w7CBUyPWg-0C:
-    citations: 5
+    citations: 6
     title: Energy Autonomous Wireless Sensing Node Working at 5 Lux from a 4 cm2 Solar Cell
     year: '2023'
   T9xaZc8AAAAJ:wMgC3FpKEyYC:
-    citations: 230
+    citations: 232
     title: '-Meson Azimuthal Anisotropy in Midcentral Pb-Pb Collisions at '
     year: '2018'
   T9xaZc8AAAAJ:xyvS_IvSCKsC:
@@ -742,7 +742,7 @@ papers:
     title: Search for weakly decaying
     year: '2016'
   T9xaZc8AAAAJ:yKzB5RS27GgC:
-    citations: 17
+    citations: 18
     title: 'LP-OPTIMA: a framework for prescriptive maintenance and optimization of IoT resources for low-power embedded systems'
     year: '2024'
   T9xaZc8AAAAJ:yNlG6JgpFqoC:
@@ -750,7 +750,7 @@ papers:
     title: "Neutral pion and  meson production in p\u2013Pb collisions at   = 5.02 TeV"
     year: '2018'
   T9xaZc8AAAAJ:ye4kPcJQO24C:
-    citations: 201
+    citations: 202
     title: Multi-strange baryon production in pPb collisions at sNN= 5.02 TeV
     year: '2016'
   T9xaZc8AAAAJ:yeL6HyUMUGUC:
