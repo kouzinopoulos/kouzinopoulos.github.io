@@ -423,6 +423,11 @@ ninja.data = [{
           description: "Digital Transformation of the Machining Value Chain for Sustainable Growth",
           section: "Projects",handler: () => {
               window.location.href = "/projects/digimach/";
+            },},{id: "projects-etcetera",
+          title: 'ETCETERA',
+          description: "Einstein Telescope Computing, Experimental Testbed and End-to-end Research Architecture",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/etcetera/";
             },},{id: "theses-beeaive-machine-learning-for-queen-presence-classification-in-beehive-audio-with-edge-deployment",
           title: 'BeeAIve: Machine Learning for Queen Presence Classification in Beehive Audio with Edge Deployment...',
           description: "",
