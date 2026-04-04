@@ -3,6 +3,7 @@ layout: post
 title: "Edge AI on Embedded Systems for Gray Mold Disease Detection"
 inline: false
 related_posts: false
+tags: [2025-2026, applied, agri]
 ---
 
 <h3>Objective</h3>

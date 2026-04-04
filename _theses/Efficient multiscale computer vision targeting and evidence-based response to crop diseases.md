@@ -3,6 +3,7 @@ layout: post
 title: "Efficient multiscale computer vision targeting and evidence-based response to crop diseases"
 inline: false
 related_posts: false
+tags: [2025-2026, CV, applied, hybrid, agri]
 ---
 
 <h3>Objective</h3>

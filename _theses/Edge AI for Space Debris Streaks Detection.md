@@ -3,6 +3,7 @@ layout: post
 title: "Edge AI for Space Debris Streaks Detection"
 inline: false
 related_posts: false
+tags: [2025-2026, 2026-2027, applied, FPGA, space]
 ---
 
 <i>This project will be performed in collaboration with Dr Angela Cratere</i>

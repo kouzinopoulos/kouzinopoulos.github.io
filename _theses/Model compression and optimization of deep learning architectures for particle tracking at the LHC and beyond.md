@@ -3,6 +3,7 @@ layout: post
 title: "Model compression and optimization of deep learning architectures for particle tracking at the LHC and beyond"
 inline: false
 related_posts: false
+tags: [2025-2026, 2026-2027, applied, compression, LHC]
 ---
 
 <i>This project will be performed in collaboration with the Maastricht Science Programme and Nikhef</i>

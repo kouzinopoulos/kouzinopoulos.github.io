@@ -3,6 +3,7 @@ layout: post
 title: "Physics informed deep learning in machining equipment"
 inline: false
 related_posts: false
+tags: [2025-2026, 2026-2027, applied, DigiMach, federated]
 ---
 
 <h3>Description</h3>
