@@ -16,10 +16,7 @@ nav_order: 7
 </ul> -->
 
 {% assign past_projects = site.theses | where_exp: "item", "item.tags contains '2025-2026'" %}
-
 {% assign current_projects = site.theses | where_exp: "item", "item.tags contains '2026-2027'" %}
-
-
 
 {% if current_projects.size > 0 %}
   <h3>Current projects (Academic year 2026 - 2027)</h3>

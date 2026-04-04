@@ -3,7 +3,7 @@ layout: post
 title: "Hardware-Aware Low-Rank Factorization"
 inline: false
 related_posts: false
-tags: [2025-2026, 2026-2027, foundational, compression]
+tags: [2026-2027, foundational, compression]
 ---
 
 <i>This project will be performed in collaboration with Assistant Professor Georgios Keramidas from the Aristotle University of Thessaloniki 
