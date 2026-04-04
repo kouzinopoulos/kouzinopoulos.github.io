@@ -457,7 +457,7 @@ ninja.data = [{
           title: 'Efficient multiscale computer vision targeting and evidence-based response to crop diseases',
           description: "",
           section: "Theses",handler: () => {
-              window.location.href = "/theses/Efficient%20multiscale%20computer%20vision%20targeting%20and%20evidence-based%20response%20to%20crop%20diseases/";
+              window.location.href = "/theses/Efficient%20multiscale%20computer%20vision/";
             },},{id: "theses-exploring-logarithmic-quantization-for-efficient-neural-network-inference",
           title: 'Exploring logarithmic quantization for efficient neural network inference',
           description: "",
