@@ -3,7 +3,7 @@ layout: post
 title: "Efficient multiscale computer vision targeting and evidence-based response to crop diseases"
 inline: false
 related_posts: false
-tags: [2025-2026, CV, applied, hybrid, agri]
+tags: [2026-2027, CV, applied, hybrid, agri]
 ---
 
 <h3>Objective</h3>
@@ -12,11 +12,11 @@ Recent studies[1][2] demonstrate the potential of UAV imagery combined with comp
 
 <h3>How</h3>
 
-You will integrate state-of-the-art DL models with UAV-acquired orthomosaic maps, alongside RGB and multispectral imagery, to build robust and efficient pipelines for disease detection. The project will focus on Alternaria alternata in potatoes, as well as Olive Leaf Spot in olive trees. To maximize data utility, transfer learning will be applied using advanced Convolutional Neural Network (CNN) architectures and Vision Transformers (ViTs) to extract rich, latent representations of data inputs, which will be integrated through a neural data fusion approach. You will perform network compression methods, including Quantization-Aware Training and structured prunning [4].
+You will extend StemWin, our family of novel hybrid convolutional-Transformer architectures designed for robust multi-scale crop disease detection in high-resolution UAV imagery. The existing architectures, StemWin, StemWin-ECA and StemWin-Dual, target detection of the *Alternaria Solani* pathogen under challenging real-world conditions characterized by seasonal domain shifts and severe scale imbalance. The project will focus on wdge deployment on UAVs. The work will examine the deployability of the networks on edge devices including FPGA boards (KV-260, ZCU-104), NN accelerators (Axelera Metis) and low-power MCUs (STM32U5, NXP FRDM). Research will focus on hardware-software co-design tuning and compressing the algorithms via iterative structured/unstructured pruning[4], PTQ/QAT, knowledge distillation and NAS/OVA to adapt to hardware constraints.
 
 <h3>Outputs</h3>
 
-A new open-source framework of compressed hybrid Computer Vision models for the detection of Alternaria alternata in potatoes and Olive Leaf Spot in olive trees from UAV-acquired orthomosaic maps. Validation of the framework for different datasets [5], with an emphasis on accuracy, memory and processing requirements. If the validation yields state of the art results and if time permits, the publication and presentation of the results in an international conference.
+A compressed, optimized adaptation of StemWin, co-designed for multiple edge devices, including FPGA boards, NN accelerators and low-power MCUs, with an emphasis on accuracy, memory and processing requirements. If the validation yields state of the art results and if time permits, the publication and presentation of the results in an international conference.
 
 <h4>Prerequisites</h4>
 

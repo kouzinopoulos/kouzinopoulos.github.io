@@ -31,24 +31,21 @@ I am an <b>Assistant Professor of the Internet of Things</b> and <b>Coordinator 
 
 I was a Senior Researcher at the <a href='https://www.iti.gr/iti/en/home/'>Information Technologies Institute</a> of the <a href='https://www.certh.gr/root.en.aspx'>Centre for Research and Technology Hellas</a>, in the group of <a href='https://www.iti.gr/iti/en/people/dimitrios-tzovaras/'>Dr. Dimitrios Tzovaras</a>. I was a Senior Research Fellow at the <a href='https://home.cern/science/experiments/alice'>ALICE experiment</a> of <a href='https://home.cern/'>CERN</a>, under the supervision of <a href='https://pensionfund.cern.ch/en/about-fund/governance/actuarial-and-technical-committee/peter-hristov/'>Dr. Peter Hristov</a>. I earned my PhD from the <a href='https://www.uom.gr/en/dai'>University of Macedonia</a> in Greece, under the supervision of <a href='https://www.uom.gr/en/kmarg'>Prof. Konstantinos Margaritis</a>.
 
-My research vision centers on developing sustainable, low-power, intelligent systems across high-impact societal sectors, such as digital agriculture, smart cities, space and the industry 4.0 as well as frontier scientific domains, including high-energy particle physics and gravitational wave analysis.
+My research vision centers on developing sustainable, low-power, intelligent systems across high-impact societal sectors, such as digital agriculture, space applications and the industry 4.0 as well as frontier scientific domains, including high-energy particle physics and gravitational wave analysis.
 
 <strong>Research interests:</strong>
 
-<ul>
-  <li><strong>Hardware design and integration</strong> with a focus on low power consumption and miniaturization</li>
-  <li><strong>Algorithm design, optimization and compression</strong> based on the underlying hardware</li>
-  <li><strong>Software-hardware co-design for Edge AI</strong></li>
-  <li><strong>Computer architecture</strong></li>
-  <li><strong>Parallel and distributed computing</strong></li>
-  <li><strong>GPGPU/TPU computing</strong></li>
-</ul> 
+* **Hardware-Software Co-Design for Edge AI**: Hardware-aware algorithm compression and optimization for the deployment of neural networks on resource-constrained edge devices.
+
+* **Heterogeneous Computing Architectures**: Optimizing parallel and distributed workloads across HPC, GPGPUs, TPUs and custom accelerators.
+
+* **Energy-Efficient System Design**: Design, reconfiguration and integration of low-power hardware systems.
 
 <strong>Research grant initiatives as Principal Investigator:</strong>
 
 <ul>
-  <li><strong>ETCETERA</strong> (€4.7m total)</li> European Regional Development Fund / Interreg Meuse - Rhine. Einstein Telescope Computing, Experimental Testbed and End-to-end Research Architecture.
-  <li><strong><a href='https://www.interregmeuserhine.eu/en/projects/digimach/'>DigiMach</a></strong> (€3.6m total, €469k for UM, €272k for DACS)</li> European Regional Development Fund / Interreg Meuse - Rhine. Digital Transformation of the Machining Value Chain for Sustainable Growth. <i>(co-PI)</i>
+  <li><strong>ETCETERA</strong> (€4.7m total) (2026 - 2029)</li> European Regional Development Fund / Interreg Meuse - Rhine. Einstein Telescope Computing, Experimental Testbed and End-to-end Research Architecture.
+  <li><strong><a href='https://www.interregmeuserhine.eu/en/projects/digimach/'>DigiMach</a></strong> (€3.6m total, €469k for UM, €272k for DACS) (2025 - 2028)</li> European Regional Development Fund / Interreg Meuse - Rhine. Digital Transformation of the Machining Value Chain for Sustainable Growth. <i>(co-PI)</i>
 </ul>
 
 <strong>Academic Service</strong>
