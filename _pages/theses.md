@@ -36,17 +36,26 @@ nav_order: 7
     </ul>
   {% endif %}
 
-  {% assign uncategorized = current_projects | where_exp: "item", "item.tags contains 'space' == false and item.tags contains 'GW' == false" %}
-  {% if uncategorized.size > 0 %}
+  {% assign uncategorized_count = 0 %}
+  {% for doc in current_projects %}
+    {% unless doc.tags contains 'space' or doc.tags contains 'GW' %}
+      {% assign uncategorized_count = uncategorized_count | plus: 1 %}
+    {% endunless %}
+  {% endfor %}
+
+  {% if uncategorized_count > 0 %}
     <h4>Other domains</h4>
     <ul>
-      {% for doc in uncategorized %}
-        <li>
-          <a href="{{ doc.url }}">{{ doc.title }}</a>
-        </li>
+      {% for doc in current_projects %}
+        {% unless doc.tags contains 'space' or doc.tags contains 'GW' %}
+          <li>
+            <a href="{{ doc.url }}">{{ doc.title }}</a>
+          </li>
+        {% endunless %}
       {% endfor %}
     </ul>
   {% endif %}
+
 {% endif %}
 
 {% assign past_projects = site.theses | where_exp: "item", "item.tags contains '2025-2026'" %}
