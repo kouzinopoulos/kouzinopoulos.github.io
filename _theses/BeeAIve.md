@@ -3,7 +3,7 @@ layout: post
 title: "BeeAIve: Machine Learning for Queen Presence Classification in Beehive Audio with Edge Deployment"
 inline: false
 related_posts: false
-tags: [2025-2026, applied, agri]
+tags: [2025, applied, agri]
 ---
 
 <i>This project will be performed in collaboration with Associate Professor Dr Joël Karel
