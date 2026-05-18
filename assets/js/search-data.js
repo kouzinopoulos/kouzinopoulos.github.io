@@ -458,6 +458,11 @@ ninja.data = [{
           description: "",
           section: "Theses",handler: () => {
               window.location.href = "/theses/Edge%20AI%20for%20Space%20Debris%20Streaks%20Detection/";
+            },},{id: "theses-efficient-multiscale-onboard-vision-for-rapid-building-damage-assessment-after-disasters",
+          title: 'Efficient Multiscale Onboard Vision for Rapid Building Damage Assessment after Disasters',
+          description: "",
+          section: "Theses",handler: () => {
+              window.location.href = "/theses/Efficient%20Multiscale%20Onboard%20Vision%20for%20Rapid%20Building%20Damage%20Assessment%20after%20Disasters/";
             },},{id: "theses-optimized-hybrid-cnn-transformer-architectures-for-pareto-efficient-vision-systems",
           title: 'Optimized hybrid CNN-Transformer architectures for Pareto-efficient vision systems',
           description: "",
