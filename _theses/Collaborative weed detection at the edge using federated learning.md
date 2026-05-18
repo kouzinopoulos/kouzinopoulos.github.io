@@ -3,7 +3,7 @@ layout: post
 title: "Collaborative weed detection at the edge using federated learning"
 inline: false
 related_posts: false
-tags: [2025, applied, federated, agri]
+tags: ["2025", applied, federated, agri]
 ---
 
 <h3>Objective</h3>

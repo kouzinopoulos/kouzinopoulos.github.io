@@ -3,7 +3,7 @@ layout: post
 title: "Hardware-Aware Neural Architecture Search for Satellite Telemetry Anomaly Detection"
 inline: false
 related_posts: false
-tags: [2026, applied, FPGA, space]
+tags: ["2026", applied, FPGA, space]
 ---
 
 <i>This project will be performed in collaboration with Dr Angela Cratere</i>

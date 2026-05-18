@@ -3,7 +3,7 @@ layout: post
 title: "Optimized hybrid CNN-Transformer architectures for Pareto-efficient vision systems"
 inline: false
 related_posts: false
-tags: [2026, CV, foundational, hybrid]
+tags: ["2026", CV, foundational, hybrid]
 ---
 
 <h3>Objective</h3>

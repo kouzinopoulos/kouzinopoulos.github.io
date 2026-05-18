@@ -3,7 +3,7 @@ layout: post
 title: "One shot vs. iterative pruning"
 inline: false
 related_posts: false
-tags: [2026-2027, foundational, compression]
+tags: ["2026", foundational, compression]
 ---
 
 <h3>Objective</h3>
