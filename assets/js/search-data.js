@@ -458,8 +458,8 @@ ninja.data = [{
           description: "",
           section: "Theses",handler: () => {
               window.location.href = "/theses/Edge%20AI%20for%20Space%20Debris%20Streaks%20Detection/";
-            },},{id: "theses-efficient-multiscale-computer-vision-targeting-and-evidence-based-response-to-crop-diseases",
-          title: 'Efficient multiscale computer vision targeting and evidence-based response to crop diseases',
+            },},{id: "theses-optimized-hybrid-cnn-transformer-architectures-for-pareto-efficient-vision-systems",
+          title: 'Optimized hybrid CNN-Transformer architectures for Pareto-efficient vision systems',
           description: "",
           section: "Theses",handler: () => {
               window.location.href = "/theses/Efficient%20multiscale%20computer%20vision/";
