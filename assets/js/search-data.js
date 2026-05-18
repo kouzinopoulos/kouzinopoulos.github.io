@@ -433,6 +433,11 @@ ninja.data = [{
           description: "",
           section: "Theses",handler: () => {
               window.location.href = "/theses/BeeAIve/";
+            },},{id: "theses-binary-neural-networks-for-post-disaster-change-detection-on-fpga",
+          title: 'Binary Neural Networks for Post-Disaster Change Detection on FPGA',
+          description: "",
+          section: "Theses",handler: () => {
+              window.location.href = "/theses/Binary%20Neural%20Networks%20for%20Post-Disaster%20Change%20Detection%20on%20FPGA/";
             },},{id: "theses-edge-ai-on-embedded-systems-for-gray-mold-disease-detection",
           title: 'Edge AI on Embedded Systems for Gray Mold Disease Detection',
           description: "",
@@ -473,6 +478,11 @@ ninja.data = [{
           description: "",
           section: "Theses",handler: () => {
               window.location.href = "/theses/Hardware-Aware%20Low-Rank%20Factorization/";
+            },},{id: "theses-hardware-aware-neural-architecture-search-for-satellite-telemetry-anomaly-detection",
+          title: 'Hardware-Aware Neural Architecture Search for Satellite Telemetry Anomaly Detection',
+          description: "",
+          section: "Theses",handler: () => {
+              window.location.href = "/theses/Hardware-Aware%20Neural%20Architecture%20Search%20for%20Satellite%20Telemetry%20Anomaly%20Detection/";
             },},{id: "theses-model-compression-and-optimization-of-deep-learning-architectures-for-particle-tracking-at-the-lhc-and-beyond",
           title: 'Model compression and optimization of deep learning architectures for particle tracking at the...',
           description: "",
@@ -493,6 +503,11 @@ ninja.data = [{
           description: "",
           section: "Theses",handler: () => {
               window.location.href = "/theses/Study%20and%20comparative%20evaluation%20of%20vector%20and%20accelerator%20implementations%20for%20the%20RISC-V%20architecture/";
+            },},{id: "theses-towards-fpga-deployable-continual-learning-for-satellite-telemetry-anomaly-detection",
+          title: 'Towards FPGA-Deployable Continual Learning for Satellite Telemetry Anomaly Detection',
+          description: "",
+          section: "Theses",handler: () => {
+              window.location.href = "/theses/Towards%20FPGA-Deployable%20Continual%20Learning%20for%20Satellite%20Telemetry%20Anomaly%20Detection/";
             },},{id: "theses-edge-ai-on-embedded-systems-for-pest-detection-in-tomato-plants",
           title: 'Edge AI on Embedded Systems for Pest Detection in Tomato Plants',
           description: "",
