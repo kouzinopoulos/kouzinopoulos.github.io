@@ -32,6 +32,16 @@ nav_order: 7
 </ul>
 {% endif %}
 
+{% assign LHC_projects = current_projects | where_exp: "item", "item.tags contains 'LHC'" %}
+{% if LHC_projects.size > 0 %}
+<h4>CERN / Particle physics domain</h4>
+<ul>
+{% for doc in LHC_projects %}
+  <li><a href="{{ doc.url }}">{{ doc.title }}</a></li>
+{% endfor %}
+</ul>
+{% endif %}
+
 {% assign founational_projects = current_projects | where_exp: "item", "item.tags contains 'foundational'" %}
 {% if founational_projects.size > 0 %}
 <h4>Foundational research</h4>
@@ -44,7 +54,7 @@ nav_order: 7
 
 {%- assign uncategorized_count = 0 -%}
 {%- for doc in current_projects -%}
-  {%- unless doc.tags contains 'space' or doc.tags contains 'GW' -%}
+  {%- unless doc.tags contains 'space' or doc.tags contains 'GW' or doc.tags contains 'LHC' or doc.tags contains 'foundational' -%}
     {%- assign uncategorized_count = uncategorized_count | plus: 1 -%}
   {%- endunless -%}
 {%- endfor -%}
