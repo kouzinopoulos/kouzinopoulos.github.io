@@ -32,14 +32,21 @@ nav_order: 7
 </ul>
 {% endif %}
 
-{% assign other_projects = current_projects | where_exp: "item", "item.tags contains 'space' == false and item.tags contains 'GW' == false" %}
+{%- assign uncategorized_count = 0 -%}
+{%- for doc in current_projects -%}
+  {%- unless doc.tags contains 'space' or doc.tags contains 'GW' -%}
+    {%- assign uncategorized_count = uncategorized_count | plus: 1 -%}
+  {%- endunless -%}
+{%- endfor -%}
 
-{% if other_projects.size > 0 %}
+{% if uncategorized_count > 0 %}
 <h4>Other domains</h4>
 <ul>
-{% for doc in other_projects %}
+{%- for doc in current_projects -%}
+  {%- unless doc.tags contains 'space' or doc.tags contains 'GW' -%}
   <li><a href="{{ doc.url }}">{{ doc.title }}</a></li>
-{% endfor %}
+  {%- endunless -%}
+{%- endfor -%}
 </ul>
 {% endif %}
 
