@@ -63,7 +63,7 @@ nav_order: 7
 <h4>Other domains</h4>
 <ul>
 {%- for doc in current_projects -%}
-  {%- unless doc.tags contains 'space' or doc.tags contains 'GW' -%}
+  {%- unless doc.tags contains 'space' or doc.tags contains 'GW' or doc.tags contains 'LHC' or doc.tags contains 'foundational' -%}
   <li><a href="{{ doc.url }}">{{ doc.title }}</a></li>
   {%- endunless -%}
 {%- endfor -%}
