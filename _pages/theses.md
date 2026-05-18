@@ -47,6 +47,7 @@ nav_order: 7
       {% endfor %}
     </ul>
   {% endif %}
+{% endif %}
 
 {% assign past_projects = site.theses | where_exp: "item", "item.tags contains '2025-2026'" %}
 
