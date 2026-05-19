@@ -42,11 +42,11 @@ nav_order: 7
 </ul>
 {% endif %}
 
-{% assign founational_projects = current_projects | where_exp: "item", "item.tags contains 'foundational'" %}
-{% if founational_projects.size > 0 %}
+{% assign foundational_projects = current_projects | where_exp: "item", "item.tags contains 'foundational'" %}
+{% if foundational_projects.size > 0 %}
 <h4>Foundational research</h4>
 <ul>
-{% for doc in founational_projects %}
+{% for doc in foundational_projects %}
   <li><a href="{{ doc.url }}">{{ doc.title }}</a></li>
 {% endfor %}
 </ul>
@@ -54,18 +54,26 @@ nav_order: 7
 
 {%- assign uncategorized_count = 0 -%}
 {%- for doc in current_projects -%}
-  {%- unless doc.tags contains 'space' or doc.tags contains 'GW' or doc.tags contains 'LHC' or doc.tags contains 'foundational' -%}
+  {%- if doc.tags contains 'space' -%}
+  {%- elsif doc.tags contains 'GW' -%}
+  {%- elsif doc.tags contains 'LHC' -%}
+  {%- elsif doc.tags contains 'foundational' -%}
+  {%- else -%}
     {%- assign uncategorized_count = uncategorized_count | plus: 1 -%}
-  {%- endunless -%}
+  {%- endif -%}
 {%- endfor -%}
 
 {% if uncategorized_count > 0 %}
 <h4>Other domains</h4>
 <ul>
 {%- for doc in current_projects -%}
-  {%- unless doc.tags contains 'space' or doc.tags contains 'GW' or doc.tags contains 'LHC' or doc.tags contains 'foundational' -%}
+  {%- if doc.tags contains 'space' -%}
+  {%- elsif doc.tags contains 'GW' -%}
+  {%- elsif doc.tags contains 'LHC' -%}
+  {%- elsif doc.tags contains 'foundational' -%}
+  {%- else -%}
   <li><a href="{{ doc.url }}">{{ doc.title }}</a></li>
-  {%- endunless -%}
+  {%- endif -%}
 {%- endfor -%}
 </ul>
 {% endif %}

@@ -3,7 +3,7 @@ layout: post
 title: "Study and comparative evaluation of vector and accelerator implementations for the RISC-V architecture"
 inline: false
 related_posts: false
-tags: ["2026", compression, co-design]
+tags: ["2026", compression, co-design, foundational]
 ---
 
 <i>This project will be performed in collaboration with Assistant Professor Georgios Keramidas and Dr. Panagiotis Mousouliotis from the Aristotle University of Thessaloniki 
