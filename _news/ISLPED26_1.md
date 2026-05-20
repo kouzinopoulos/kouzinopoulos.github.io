@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper A Hardware-Based Multi-Stage Dynamic Power Management Architecture for Autonomous Low-Light Operation, accepted at <a href="https://www.islped.org/2026/">**ISLPED 2026**</a>
+Paper [**A Hardware-Based Multi-Stage Dynamic Power Management Architecture for Autonomous Low-Light Operation**](https://arxiv.org/abs/2605.19879), accepted at <a href="https://www.islped.org/2026/">**ISLPED 2026**</a>
