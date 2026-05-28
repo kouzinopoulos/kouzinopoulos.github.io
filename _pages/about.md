@@ -44,6 +44,7 @@ My research vision centers on developing sustainable, low-power, intelligent sys
 <strong>Research grant initiatives as Principal Investigator:</strong>
 
 <ul>
+  <li><strong>SCOPE</strong> (€5.2m total) (2026 - 2029)</li> European Regional Development Fund / Interreg Meuse - Rhine. Sustainable Computing Prototype for the Einstein Telescope.
   <li><strong>ETCETERA</strong> (€4.7m total) (2026 - 2029)</li> European Regional Development Fund / Interreg Meuse - Rhine. Einstein Telescope Computing, Experimental Testbed and End-to-end Research Architecture.
   <li><strong><a href='https://www.interregmeuserhine.eu/en/projects/digimach/'>DigiMach</a></strong> (€3.6m total, €469k for UM, €272k for DACS) (2025 - 2028)</li> European Regional Development Fund / Interreg Meuse - Rhine. Digital Transformation of the Machining Value Chain for Sustainable Growth. <i>(co-PI)</i>
 </ul>
