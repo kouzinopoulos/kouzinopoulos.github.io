@@ -6,7 +6,7 @@ related_posts: false
 tags: ["2026", applied, FPGA, space]
 ---
 
-<i>This project will be performed in collaboration with Dr Angela Cratere</i>
+<i>This project will be performed in collaboration with Dr. Angela Cratere (DACS, Maastricht University) and Dr. Nikolaos Alachiotis (EEMCS-CS, University of Twente)</i>
 
 <h3>Objective</h3>
 
