@@ -1,13 +1,25 @@
 ---
 ---
 
+@INPROCEEDINGS{Cratere2026SSAVA,
+  author={Angela Cratere and Luca Ghilardi and Vishnu Reddy and Francesco Dell'Olio and Charalampos S. Kouzinopoulos and Roberto Furfaro},
+  booktitle={SPAICE 2026}, 
+  title={Improving Faint Object Detection for Space Situational Awareness with Variational Autoencoders}, 
+  year={2026},
+  selected = {true},
+  keywords={Space Situational Awareness (SSA), Faint Object Detection, Background Estimation, Variational Autoencoder (VAE), Astronomical Image Processing, Generative Image Inpainting},
+  abstract={We present a deep-learning pipeline for enhancing the detection of faint moving objects in optical space situational awareness (SSA) imagery through automated star removal and background reconstruction. Detecting low-signal-to-noise ratio (SNR) objects remains extremely challenging in optical observations, particularly in the cislunar (X-GEO) environment, where structured sky backgrounds, dense stellar fields, and scattered moonlight significantly degrade the performance of classical detection algorithms. To address this problem, the proposed pipeline combines a lightweight segmentation network (Tiny-U-Net) to generate stellar masks with a partial-convolution variational autoencoder (astro-VAE), designed to learn the statistical distribution of astronomical backgrounds and perform context-aware inpainting of masked regions. The reconstructed background maps can then be used as a preprocessing step to suppress fixed sources and background inhomogeneities prior to detection. As a proof of concept, the approach is integrated with a shift-and-stack scheme and evaluated on real ground-based telescope observations targeting the X-GEO region. Results demonstrate that the method reconstructs star-free backgrounds with high fidelity, while preserving moving targets and significantly enhancing detectability, thereby providing an effective data-driven preprocessing strategy for faint moving-object detection in optical SSA scenarios.},
+  bibtex_show={true},
+  preview={SPAICE26_1.png}
+  }
+
 @INPROCEEDINGS{Kouzinopoulos2026AMANDA,
   author={Charalampos S. Kouzinopoulos and Marcel L. Meli and Martin Schellenberg and Philip J. Poole and Mathieu Bellanger and Matthias Kauer and Julien De Vos and Dimosthenis Ioannidis and Dimitrios Tzovaras},
   booktitle={2026 IEEE/ACM International Symposium on Low Power Electronics and Design (ISLPED)}, 
   title={A Hardware-Based Multi-Stage Dynamic Power Management Architecture for Autonomous Low-Light Operation}, 
   year={2026},
   selected = {true},
-  keywords={Low-Power; Power Management; PMIC; Energy Harvesting; Embedded Systems; Internet of Thing},
+  keywords={Low-Power; Power Management; PMIC; Energy Harvesting; Embedded Systems; Internet of Things},
   abstract={The advance of autonomous Smart Sensor Networks and embedded systems for the Internet of Things, powered by photovoltaic energy harvesting, is severely limited by energy efficiency, especially in low-light environments. While Dynamic Power Management is essential for energy conservation, conventional software-based techniques that rely on processor-managed low-power states incur a persistent quiescent current drain. This current becomes the dominant energy sink in energy-scarce conditions, limiting autonomy. The work of this paper addresses this limitation by introducing a robust, hardware-orchestrated dynamic power management architecture that improves existing configurations for battery-based sensor nodes. The proposed architecture achieves a minimal quiescent drain of $452nA$, by completely power-gating the microcontroller and all non-essential peripherals, with wake-up orchestrated by an ultra-low-power PMIC, RTC and a novel latch circuit developed specifically for this work. Our evaluation demonstrates that the dynamic power management architecture is significantly more efficient than traditional software-based sleep modes.},
   bibtex_show={true},
   eprint={2605.19879},
@@ -17,7 +29,7 @@
   url={https://arxiv.org/abs/2605.19879},
   pdf={ISLPED_1.pdf},
   doi={10.48550/arXiv.2605.19879},
-  preview={ISLPED_1.png}
+  preview={ISLPED26_1.png}
   }
 
 @misc{Prianikov2025machinelearningpatterndetection,
