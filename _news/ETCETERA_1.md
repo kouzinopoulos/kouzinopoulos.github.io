@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Project **ETCETERA** was funded by <a href="https://www.interregmeuserhine.eu/en/">**Interreg Meuse-Rhine**</a>
+Project <a href="https://www.interregmeuserhine.eu/en/projects/etcetera/">**ETCETERA**</a> was funded by <a href="https://www.interregmeuserhine.eu/en/">**Interreg Meuse-Rhine**</a>

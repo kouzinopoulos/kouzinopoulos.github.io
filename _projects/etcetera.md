@@ -9,3 +9,5 @@ related_publications: false
 ---
 
 {% include figure.liquid path="assets/img/etcetera-gravitational-waves1.jpeg" title="ETCETERA banner" %}
+
+<a href='https://www.interregmeuserhine.eu/en/projects/etcetera/'>Project website</a>
