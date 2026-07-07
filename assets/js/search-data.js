@@ -440,6 +440,11 @@ ninja.data = [{
           description: "Einstein Telescope Computing, Experimental Testbed and End-to-end Research Architecture",
           section: "Projects",handler: () => {
               window.location.href = "/projects/etcetera/";
+            },},{id: "projects-scope",
+          title: 'SCOPE',
+          description: "Sustainable Computing Prototype for the Einstein Telescope",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/scope/";
             },},{id: "theses-beeaive-machine-learning-for-queen-presence-classification-in-beehive-audio-with-edge-deployment",
           title: 'BeeAIve: Machine Learning for Queen Presence Classification in Beehive Audio with Edge Deployment...',
           description: "",
