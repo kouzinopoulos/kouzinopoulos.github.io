@@ -2,7 +2,7 @@
 layout: page
 title: SCOPE
 description: Sustainable Computing Prototype for the Einstein Telescope
-img: assets/img/etcetera-gravitational-waves1.jpeg
+img: assets/img/scope_prototype.jpeg
 importance: 1
 category: European
 related_publications: false
