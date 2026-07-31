@@ -503,6 +503,11 @@ ninja.data = [{
           description: "",
           section: "Theses",handler: () => {
               window.location.href = "/theses/Hardware-Aware%20Low-Rank%20Factorization/";
+            },},{id: "theses-hardware-aware-neural-architecture-search-for-fpga-based-early-gravitational-wave-detection",
+          title: 'Hardware-Aware Neural Architecture Search for FPGA-Based Early Gravitational-Wave Detection',
+          description: "",
+          section: "Theses",handler: () => {
+              window.location.href = "/theses/Hardware-Aware%20Neural%20Architecture%20Search%20for%20FPGA-Based%20Early%20Gravitational-Wave%20Detection/";
             },},{id: "theses-hardware-aware-neural-architecture-search-for-satellite-telemetry-anomaly-detection",
           title: 'Hardware-Aware Neural Architecture Search for Satellite Telemetry Anomaly Detection',
           description: "",
@@ -523,11 +528,21 @@ ninja.data = [{
           description: "",
           section: "Theses",handler: () => {
               window.location.href = "/theses/Physics%20informed%20deep%20learning%20in%20machining%20equipment/";
+            },},{id: "theses-red-teaming-navi-orbital-security-of-multi-agent-vlm-systems-in-space",
+          title: 'Red-Teaming NAVI-Orbital Security of Multi-Agent VLM Systems in Space',
+          description: "",
+          section: "Theses",handler: () => {
+              window.location.href = "/theses/Red-Teaming%20NAVI-Orbital%20Security%20of%20Multi-Agent%20VLM%20Systems%20in%20Space/";
             },},{id: "theses-study-and-comparative-evaluation-of-vector-and-accelerator-implementations-for-the-risc-v-architecture",
           title: 'Study and comparative evaluation of vector and accelerator implementations for the RISC-V architecture...',
           description: "",
           section: "Theses",handler: () => {
               window.location.href = "/theses/Study%20and%20comparative%20evaluation%20of%20vector%20and%20accelerator%20implementations%20for%20the%20RISC-V%20architecture/";
+            },},{id: "theses-tiny-temporal-models-for-fpga-based-satellite-telemetry-anomaly-detection",
+          title: 'Tiny Temporal Models for FPGA-Based Satellite Telemetry Anomaly Detection',
+          description: "",
+          section: "Theses",handler: () => {
+              window.location.href = "/theses/Tiny%20Temporal%20Models%20for%20FPGA-Based%20Satellite%20Telemetry%20Anomaly%20Detection/";
             },},{id: "theses-towards-fpga-deployable-continual-learning-for-satellite-telemetry-anomaly-detection",
           title: 'Towards FPGA-Deployable Continual Learning for Satellite Telemetry Anomaly Detection',
           description: "",
