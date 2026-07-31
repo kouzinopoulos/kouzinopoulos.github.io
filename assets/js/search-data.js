@@ -493,8 +493,8 @@ ninja.data = [{
           description: "",
           section: "Theses",handler: () => {
               window.location.href = "/theses/Exploring%20logarithmic%20quantization%20for%20efficient%20neural%20network%20inference/";
-            },},{id: "theses-hardware-acceleration-of-deep-learning-models-for-particle-tracking-at-the-lhc-and-beyond",
-          title: 'Hardware acceleration of deep learning models for particle tracking at the LHC and...',
+            },},{id: "theses-hardware-accelerated-particle-tracking-at-the-cern-lhc-and-beyond",
+          title: 'Hardware accelerated particle tracking at the CERN LHC and beyond',
           description: "",
           section: "Theses",handler: () => {
               window.location.href = "/theses/Hardware%20accelerated%20particle%20tracking%20at%20the%20CERN%20LHC%20and%20beyond/";
