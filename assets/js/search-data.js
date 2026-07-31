@@ -497,7 +497,7 @@ ninja.data = [{
           title: 'Hardware acceleration of deep learning models for particle tracking at the LHC and...',
           description: "",
           section: "Theses",handler: () => {
-              window.location.href = "/theses/Hardware%20acceleration%20of%20deep%20learning%20models%20for%20particle%20tracking%20at%20the%20LHC%20and%20beyond/";
+              window.location.href = "/theses/Hardware%20accelerated%20particle%20tracking%20at%20the%20CERN%20LHC%20and%20beyond/";
             },},{id: "theses-hardware-aware-low-rank-factorization",
           title: 'Hardware-Aware Low-Rank Factorization',
           description: "",
@@ -513,11 +513,6 @@ ninja.data = [{
           description: "",
           section: "Theses",handler: () => {
               window.location.href = "/theses/Hardware-Aware%20Neural%20Architecture%20Search%20for%20Satellite%20Telemetry%20Anomaly%20Detection/";
-            },},{id: "theses-model-compression-and-optimization-of-deep-learning-architectures-for-particle-tracking-at-the-lhc-and-beyond",
-          title: 'Model compression and optimization of deep learning architectures for particle tracking at the...',
-          description: "",
-          section: "Theses",handler: () => {
-              window.location.href = "/theses/Model%20compression%20and%20optimization%20of%20deep%20learning%20architectures%20for%20particle%20tracking%20at%20the%20LHC%20and%20beyond/";
             },},{id: "theses-one-shot-vs-iterative-pruning",
           title: 'One shot vs. iterative pruning',
           description: "",
