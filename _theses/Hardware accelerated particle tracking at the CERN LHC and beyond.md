@@ -6,7 +6,7 @@ related_posts: false
 tags: ["2026", applied, compression, LHC]
 ---
 
-<i>This project will be performed in collaboration with the Maastricht Science Programme and Nikhef
+<i>This project will be performed in collaboration with Dr Panos Christakoglou (Maastricht Science Programme and Nikhef)
 </i>
 
 <h3>Objective</h3>
@@ -17,11 +17,11 @@ independent proton-proton collisions occurring within the same time window). The
 
 <h3>How</h3>
 
-You will focus on the deployment of optimized deep learning models for particle tracking on specialized hardware, such as GPUs and FPGAs. The goal of this thesis is to evaluate the trade-offs between speed, energy efficiency, and physics performance when running these models on accelerated platforms.
+You will build on our existing work for novel methods to enable efficient ambiguity resolution. You will focus on the deployment of optimized deep learning models for particle tracking, including Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs) and Graph Neural Networks (GNNs), on specialized hardware, such as GPUs and FPGAs. The goal of this project is to evaluate the trade-offs between speed, energy efficiency and physics performance when running these models on accelerated platforms.
 
 <h3>Outputs</h3>
 
-Benchmark of DL models on different hardware backends such as GPU and FPGAs. Measurement of impact on throughput, power consumption and eventually physics performance (e.g. efficiency vs fake track rates). If the validation yields state of the art results and if time permits, the publication and presentation of the results in an international conference.
+Benchmark of DL models on different hardware backends such as GPU and FPGAs. Measurement of impact on throughput, power consumption and eventually physics performance (e.g. efficiency vs fake track rates). If the validation yields state of the art results and if time permits, the publication and presentation of the results in an international venue.
 
 <h4>Prerequisites</h4>
 
