@@ -418,7 +418,7 @@ ninja.data = [{
           section: "News",},{id: "news-project-etcetera-was-funded-by-interreg-meuse-rhine",
           title: 'Project ETCETERA was funded by Interreg Meuse-Rhine',
           description: "",
-          section: "News",},{id: "news-paper-a-hardware-based-multi-stage-dynamic-power-management-architecture-for-autonomous-low-light-operation-accepted-at-islped-2026",
+          section: "News",},{id: "news-paper-a-hardware-based-multi-stage-dynamic-power-management-architecture-for-autonomous-low-light-operation-accepted-at-islped-2026-paper-poster",
           title: 'Paper A Hardware-Based Multi-Stage Dynamic Power Management Architecture for Autonomous Low-Light Operation accepted...',
           description: "",
           section: "News",},{id: "news-project-scope-was-funded-by-interreg-meuse-rhine",
