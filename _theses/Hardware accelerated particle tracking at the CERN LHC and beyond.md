@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hardware acceleration of deep learning models for particle tracking at the LHC and beyond"
+title: "Hardware accelerated particle tracking at the CERN LHC and beyond"
 inline: false
 related_posts: false
 tags: ["2026", applied, compression, LHC]
