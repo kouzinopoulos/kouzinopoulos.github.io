@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Deep Learning for Telemetry Data Analysis in Satellite Missions "
+title: "Deep Learning for Telemetry Data Analysis in Satellite Missions"
 inline: false
 related_posts: false
-tags: ["2026", applied, FPGA, space]
+tags: ["2025", applied, FPGA, space]
 ---
 
-<i>This project will be performed in collaboration with Dr. Angela Cratere (DACS, Maastricht University) and Dr. Nikolaos Alachiotis (EEMCS-CS, University of Twente)</i>
+<i>This project was performed in collaboration with Dr. Angela Cratere (DACS, Maastricht University)</i>
 
 <h3>Objective</h3>
 
