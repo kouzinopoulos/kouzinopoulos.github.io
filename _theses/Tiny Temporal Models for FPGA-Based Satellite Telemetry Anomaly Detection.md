@@ -28,6 +28,8 @@ An extension of the existing satellite telemetry anomaly-detection repository wi
 	<li>Nice to have or willing to learn: model compression techniques, FPGA deployment toolchains</li>
 </ol>
 
+<h4>References</h4>
+
 <ul>
 	<li>[1] Horne, R. et al., (2023) "Anomaly Detection Using Deep Learning Respecting the Resources on Board a CubeSat"</li>
 	<li>[2] Goetze, C. et al. (2025) "Deep Learning-Based Anomaly Detection in Spacecraft Telemetry on Edge Devices."</li>

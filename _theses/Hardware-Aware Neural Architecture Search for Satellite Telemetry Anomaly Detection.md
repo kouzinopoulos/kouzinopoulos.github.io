@@ -29,6 +29,8 @@ An extended benchmark for satellite telemetry anomaly detection. A hardware-awar
 	<li>Nice to have or willing to learn: FPGA deployment flows such as Vitis AI, FINN and/or Vitis HLS</li>
 </ol>
 
+<h4>References</h4>
+
 <ul>
 <li>[1] Wang, Y. et al., (2022). "A Deep Learning Anomaly Detection Framework for Satellite Telemetry with Fake Anomalies."</li>
 <li>[2] Horne, R. et al., (2023) "Anomaly Detection Using Deep Learning Respecting the Resources on Board a CubeSat"</li>

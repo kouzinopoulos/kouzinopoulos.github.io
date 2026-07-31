@@ -26,6 +26,8 @@ The project will deliver a reproducible security evaluation framework of a NAVI-
 	<li>Good Python skills, good machine learning and LLM knowledge as well as interest in space systems, security and LLM-based agent systems.</li>
 </ol>
 
+<h4>References</h4>
+
 <ul>
 	<li>[1] Nguyen, Loc X., et al. (2026). "A Comprehensive Survey on Semantic Communication in Non-Terrestrial Networks: Architectures, Methodologies, and Challenges." arXiv.</li>
 	<li>[2] Victoria, J. M. D et al., (2026). "NAVI-Orbital: First In-Orbit Demonstration of a Zero-Shot Vision-Language Model for Autonomous Earth Observation." arXiv.  </li>
