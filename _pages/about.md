@@ -46,7 +46,7 @@ My research vision centers on developing sustainable, low-power, intelligent sys
 <ul>
   <li><strong>SCOPE</strong> (€5.2m total) (2026 - 2029)</li> European Regional Development Fund / Interreg Meuse - Rhine. Sustainable Computing Prototype for the Einstein Telescope.
   <li><strong>ETCETERA</strong> (€4.7m total) (2026 - 2029)</li> European Regional Development Fund / Interreg Meuse - Rhine. Einstein Telescope Computing, Experimental Testbed and End-to-end Research Architecture.
-  <li><strong><a href='https://www.interregmeuserhine.eu/en/projects/digimach/'>DigiMach</a></strong> (€3.6m total, €469k for UM, €272k for DACS) (2025 - 2028)</li> European Regional Development Fund / Interreg Meuse - Rhine. Digital Transformation of the Machining Value Chain for Sustainable Growth. <i>(co-PI)</i>
+  <li><strong><a href='https://www.interregmeuserhine.eu/en/projects/digimach/'>DigiMach</a></strong> (€3.6m total) (2025 - 2028)</li> European Regional Development Fund / Interreg Meuse - Rhine. Digital Transformation of the Machining Value Chain for Sustainable Growth. <i>(co-PI)</i>
 </ul>
 
 <strong>Academic Service</strong>
@@ -54,7 +54,7 @@ My research vision centers on developing sustainable, low-power, intelligent sys
 <ul>
   <li><strong>Journal Reviewer and Conference/Workshop TPC member</strong>
     <ul>
-      <li><a href='https://ijcnn.org/2027'>IJCNN 2027</a> | <a href='https://flta-conference.org/flta-2026/'>FLTA 2026</a> | <a href='https://www.sciencedirect.com/journal/sensors-and-actuators-a-physical'>Elsevier Sensors and Actuators A: Physical</a> | <a href='https://www.sciencedirect.com/journal/journal-of-systems-architecture'>Elsevier Journal of Systems Architecture (JSA)</a> | <a href='https://attend.ieee.org/wcci-2026/'>IJCNN 2026</a> | <a href='https://www.enssys.org/2026/'>ENSSYS 2026</a> workshop at <a href='https://cps-iot-week2026.inria.fr/'>CPS-IoT Week</a> | <a href='https://mocast2026.uib.es/'>MOCAST 2026</a> | <a href='https://2025.ijcnn.org/'>IJCNN 2025</a> | <a href='https://tu-dresden.de/ing/elektrotechnik/iee/mocast2025?set_language=en'>MOCAST 2025</a> | <a href='https://www.mocast.eu/'>MOCAST 2024</a></li>
+      <li><a href='https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5503868'>IEEE Journal on Emerging and Selected Topics in Circuits and Systems</a> | <a href='https://ijcnn.org/2027'>IJCNN 2027</a> | <a href='https://flta-conference.org/flta-2026/'>FLTA 2026</a> | <a href='https://www.sciencedirect.com/journal/sensors-and-actuators-a-physical'>Elsevier Sensors and Actuators A: Physical</a> | <a href='https://www.sciencedirect.com/journal/journal-of-systems-architecture'>Elsevier Journal of Systems Architecture (JSA)</a> | <a href='https://attend.ieee.org/wcci-2026/'>IJCNN 2026</a> | <a href='https://www.enssys.org/2026/'>ENSSYS 2026</a> workshop at <a href='https://cps-iot-week2026.inria.fr/'>CPS-IoT Week</a> | <a href='https://mocast2026.uib.es/'>MOCAST 2026</a> | <a href='https://2025.ijcnn.org/'>IJCNN 2025</a> | <a href='https://tu-dresden.de/ing/elektrotechnik/iee/mocast2025?set_language=en'>MOCAST 2025</a> | <a href='https://www.mocast.eu/'>MOCAST 2024</a></li>
     </ul>
   </li>
 </ul>
